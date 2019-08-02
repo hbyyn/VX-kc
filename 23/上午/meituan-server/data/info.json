@@ -1,0 +1,57 @@
+{
+  "data": {
+    "activityList": [
+      {
+        "actName": "",
+        "actDesc": "折扣商品7.49折起(在线支付专享)",
+        "actType": 0,
+        "iconText": "",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+      },
+      {
+        "actName": "",
+        "actDesc": "该商家支持在线支付",
+        "actType": 0,
+        "iconText": "",
+        "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+      },
+      {
+        "actName": "",
+        "actDesc": "本店支持开发票，开票金额0元起",
+        "actType": 0,
+        "iconText": "",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png"
+      }
+    ],
+    "dpShopId": 0,
+    "invoiceMsg": "本店支持开发票，开票金额0元起",
+    "invoiceSupport": 1,
+    "licencePics": [
+      "http://p1.meituan.net/waimaipoi/d1f516841a712d7478aea9c165aa67f7116866.jpg@900w_600h_1e_1c",
+      "http://p1.meituan.net/waimaipoi/ced9f7375002b5b3c79bf2f9a42c6d73190113.jpg@900w_600h_1e_1c"
+    ],
+    "poiQualificationInfo": {
+      "show": true,
+      "content": "查看食品安全档案",
+      "url": "http://i.waimai.meituan.com/node/legacy/poi-qualification?wm_poi_id=897735244005562"
+    },
+    "mtWmPoiId": "897735244005562",
+    "onlinePay": 1,
+    "overtimePaymentSupported": false,
+    "isBrand": 1,
+    "brandMsg": "该商户为品牌商户",
+    "serTime": ["00:00-04:00", "05:45-23:59"],
+    "shopAddress": "深圳市宝安区福永街道兴围社区兴围大道6号第一层A101铺",
+    "shopEnvTitle": "商家环境",
+    "shopName": "肯德基宅急送（兴围店）",
+    "shopPhone": ["4009208801"],
+    "shopReviewTitle": "点评评价",
+    "shopStar": 46,
+    "sold": "0",
+    "tip": "欢迎光临肯德基宅急送，专业外送，全程保温，准时送达！",
+    "shopLat": 2.2637744e7,
+    "shopLng": 1.13831968e8
+  },
+  "code": 0,
+  "msg": "成功"
+}

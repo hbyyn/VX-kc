@@ -1,0 +1,4 @@
+<import src="/components/menu.vue.wxml" />
+<import src="/components/comment.vue.wxml" />
+<import src="/components/info.vue.wxml" />
+<import src="/components/card.vue.wxml" />

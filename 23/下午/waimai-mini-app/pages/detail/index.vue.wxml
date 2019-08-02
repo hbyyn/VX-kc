@@ -1,0 +1,21 @@
+<import src="/components/menu.vue.wxml" />
+<import src="/components/comment.vue.wxml" />
+<import src="/components/info.vue.wxml" />
+<import src="/components/card.vue.wxml" /><template name="12c33053">
+  <view class="_div data-v-c6eb783a">
+    <view class="_header data-v-c6eb783a header">
+      <image class="_image data-v-c6eb783a shop-icon" mode="aspectFill" src="{{headerData.picUrl}}"></image> <label bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_span data-v-c6eb783a">显示</label>
+    </view>
+    <view class="_nav data-v-c6eb783a nav">
+      <view wx:key="item" key="{{item}}" class="_li data-v-c6eb783a nav-item {{[selectNavIndex === index ? 'active' : '']}}" bindtap="handleProxy" data-eventid="{{'1_'+index}}" data-comkey="{{$k}}" wx:for="{{navList}}" wx:for-index="index" wx:for-item="item">
+        {{item}}
+      </view>
+      <view class="_div data-v-c6eb783a"></view>
+    </view>
+    <swiper class="_swiper data-v-c6eb783a swiper" current="{{selectNavIndex}}" bindchange="handleProxy" data-eventid="{{'2'}}" data-comkey="{{$k}}">
+      <swiper-item class="_swiper-item data-v-c6eb783a"><template data="{{...$root[$kk+'0'], $root}}" is="334cd194"></template></swiper-item>
+      <swiper-item class="_swiper-item data-v-c6eb783a"><template data="{{...$root[$kk+'2'], $root}}" is="0ec5173a"></template></swiper-item>
+      <swiper-item class="_swiper-item data-v-c6eb783a"><template data="{{...$root[$kk+'4'], $root}}" is="61e4e163"></template></swiper-item>
+    </swiper> <template wx:if="{{showCard}}" bindclose="handleProxy" data-eventid="{{'3'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'6'], $root}}" is="56cbf6c5"></template>
+  </view>
+</template>

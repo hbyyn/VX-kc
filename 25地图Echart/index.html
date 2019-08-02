@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <button onclick="btnAction()">按钮</button>
+
+    <script>
+        
+    function btnAction(){
+   
+
+            // 获得当前的位置信息
+        navigator.geolocation.getCurrentPosition(
+            function(position){
+                console.log('成功');
+                console.log(position);
+                /*
+                position.coords.accuracy 精确度
+                position.coords.altitude 海拔
+                position.coords.altitudeAccuracy 海拔精确度
+                position.coords.heading 海拔精确度
+                position.coords.latitude 纬度
+                position.coords.longitude 经度
+                position.coords.speed 速度
+                position.timestamp 时间戳
+                */ 
+            },
+            function(error){
+                console.log('失败');
+                console.log(error);
+            }
+        );
+
+            
+    }
+    
+    
+    </script>
+    
+</body>
+</html>

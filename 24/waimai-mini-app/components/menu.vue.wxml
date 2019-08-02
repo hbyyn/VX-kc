@@ -1,0 +1,26 @@
+<template name="334cd194">
+  <view class="_div data-v-078e2ff8 menu">
+    <view class="_div data-v-078e2ff8 menu-wrap">
+      <scroll-view class="_scroll-view data-v-078e2ff8 menu-nav" scroll-y="{{true}}" scroll-into-view="{{'nav'+selectIndex}}">
+        <view wx:key="item.tag" key="{{item.tag}}" id="{{'nav'+index}}" class="_li data-v-078e2ff8 nav-item {{[selectIndex === index ? 'active' : '']}}" bindtap="handleProxy" data-eventid="{{'0_'+index}}" data-comkey="{{$k}}" wx:for="{{nav}}" wx:for-index="index" wx:for-item="item">
+          <image wx:if="{{item.icon}}" src="{{item.icon}}" class="_image data-v-078e2ff8"></image> <label class="_span data-v-078e2ff8">{{item.name}}</label>
+        </view>
+      </scroll-view>
+      <scroll-view class="_scroll-view data-v-078e2ff8 menu-list" scroll-y="{{true}}" scrollTop="{{scrollTop}}" scroll-into-view="{{'group'+selectIndex}}" bindscroll="handleProxy" data-eventid="{{'2'}}" data-comkey="{{$k}}">
+        <view wx:key="index" key="{{index}}" id="{{'group'+index}}" wx:for="{{list}}" wx:for-index="index" wx:for-item="menu" class="_div data-v-078e2ff8">
+          <view class="_h3 data-v-078e2ff8 group-title">{{nav[index].name}}</view>
+          <view class="_ul data-v-078e2ff8">
+            <view wx:key="item.spuId" key="{{item.spuId}}" class="_li data-v-078e2ff8 menu-item" wx:for="{{menu}}" wx:for-index="j" wx:for-item="item">
+              <image class="_image data-v-078e2ff8 pic" mode="aspectFill" src="{{item.littleImageUrl}}"></image>
+              <view class="_div data-v-078e2ff8 content">
+                <view class="_h4 data-v-078e2ff8 title">{{item.spuName}}</view>
+                <view class="_div data-v-078e2ff8 add-btn" bindtap="handleProxy" data-eventid="{{'1_'+index+'-'+j}}" data-comkey="{{$k}}">添加</view>
+              </view>
+            </view>
+          </view>
+        </view>
+      </scroll-view>
+    </view>
+    <view class="_div data-v-078e2ff8 tools"></view>
+  </view>
+</template>

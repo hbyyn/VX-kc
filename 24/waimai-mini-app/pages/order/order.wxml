@@ -1,0 +1,17 @@
+<!--pages/order/order.wxml-->
+
+<button wx:if="{{showLogin}}" bindtap="goMinePage">请先登录</button>
+
+<view wx:else>
+
+  <block wx:for="{{orderList}}" wx:key="item.shopId" wx:for-item="orderInfo">
+    <view>
+      <view>商家名字：{{orderInfo.shopId}}</view>
+      <block wx:for="{{orderInfo.list}}" wx:key="item.goodsId">
+        <view>{{item.name}}---{{item.price}}---{{item.count}}</view>
+      </block>
+      <view>{{orderInfo.pay}}</view>
+    </view>
+  </block>
+
+</view>

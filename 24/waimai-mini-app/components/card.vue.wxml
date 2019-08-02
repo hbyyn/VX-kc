@@ -1,0 +1,10 @@
+<template name="56cbf6c5">
+  <view class="_div data-v-1fb80d35 card" bindtap="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}">
+    <view class="_div data-v-1fb80d35 card-wrap">
+      <view class="_div data-v-1fb80d35 card-content" catchtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">
+        <view class="_div data-v-1fb80d35">{{headerData.name}}</view>
+      </view>
+      <view class="_div data-v-1fb80d35 cancel"></view>
+    </view>
+  </view>
+</template>

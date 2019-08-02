@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    canvas{
+        /* border: 1px dashed salmon; */
+        /* canvas不能通过样式设置画布大小  */
+        /* width: 500px;
+        height: 500px; */
+    }
+    </style>
+</head>
+<body>
+
+    <canvas></canvas>
+    
+    <script>
+        // 获得画布的dom对象
+    var canvas = document.querySelector('canvas');
+    // 设置大小
+    canvas.width = 500;
+    canvas.height = 500;
+
+        // 获得画布的上下文
+    var context = canvas.getContext('2d');
+    
+    context.beginPath();//开始绘制
+    context.moveTo(0, 0);
+    context.lineTo(100,100);
+    context.lineTo(50, 0);
+    
+
+    context.strokeStyle = 'red'
+    context.fillStyle = '#ad8';
+    // 描边
+    context.stroke();
+    // 填充
+    // context.fill();
+
+    context.closePath();//关闭绘制
+    
+    
+    context.beginPath();
+    context.moveTo(250, 250);
+    context.arc(250, 250, 150, 200*Math.PI/180, 330*Math.PI/180, false);
+    context.lineTo(250, 250);
+    context.stroke();
+
+    context.closePath();
+
+
+    context.fillRect(300, 300, 50, 100);
+    context.fillRect(400, 260, 50, 140);
+    context.fillRect(200, 170, 50, 230);
+    
+    </script>
+
+</body>
+</html>

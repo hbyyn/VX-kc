@@ -1,0 +1,36 @@
+/* pages/home/home.wxss */
+/* .header{
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 2px #ddd;
+}
+.name{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  color: palevioletred;
+} */
+
+.header{
+  background: #efefef;
+  height: 200px;
+  display: flex;
+}
+.img{
+  width: 150px;
+  position: relative;
+}
+.img image{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: #666 2px solid;
+}

@@ -1,0 +1,19 @@
+<!-- 未登录的结构 -->
+<view class="header" hidden='{{isLogin}}'>
+  <view class='header-img'>
+    <image src='/images/header.png'></image>
+  </view>
+  <view class='header-info'>
+    <button class='login' open-type='getUserInfo' bindgetuserinfo='getUserInfoAction'>请先登录</button>
+  </view>
+</view>
+
+<!-- 已登录的结构 -->
+<view class="header" hidden='{{!isLogin}}'>
+  <view class='header-img'>
+    <image src='{{userImage}}'></image>
+  </view>
+  <view class='header-info'>
+    <view class='name'>{{userName}}</view>
+  </view>
+</view>

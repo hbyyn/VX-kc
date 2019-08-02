@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./fastclick.js"></script>
+    <title>Document</title>
+    <style>
+    .box{
+        width: 300px;
+        height: 300px;
+        background: #ad9;
+    }
+    
+    </style>
+</head>
+<body>
+
+    <div class="box"></div>
+
+    <script>
+
+// 使用touch事件模拟click，当touchend时直接触发click，不等待300ms，同时阻止本身click执行
+if ('addEventListener' in document) {
+	document.addEventListener('DOMContentLoaded', function() {
+		FastClick.attach(document.body);
+	}, false);
+}
+
+    var box = document.querySelector('.box');
+
+
+    // 在移动端，click会有300ms延迟？
+    // 为了判断页面的双击达到缩放页面的目的
+    box.addEventListener('click', ()=>{
+        console.log(new Date().getTime());
+    })
+
+
+    // 300事件不会有300ms延迟
+    box.addEventListener('touchstart', (ev)=>{
+        console.log(new Date().getTime());
+    })
+
+
+    box.addEventListener('touchmove', ()=>{
+        console.log(new Date().getTime());
+    })
+
+
+    box.addEventListener('touchend', ()=>{
+        console.log(new Date().getTime());
+    })
+
+
+
+
+
+    
+    </script>
+    
+</body>
+</html>

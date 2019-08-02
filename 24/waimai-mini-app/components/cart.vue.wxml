@@ -1,0 +1,14 @@
+<template name="57ad6ed5">
+  <view class="_div data-v-20998545 cart">
+    <view class="_div data-v-20998545 cover" hidden="{{!(isShow)}}" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}"></view>
+    <view class="_ul data-v-20998545 cart-list" hidden="{{!(isShow)}}">
+      <view wx:key="item.goodsId" key="{{item.goodsId}}" wx:for="{{list}}" wx:for-index="index" wx:for-item="item" class="_li data-v-20998545"><button bindtap="handleProxy" data-eventid="{{'1_'+index}}" data-comkey="{{$k}}" class="_button data-v-20998545">-</button>
+        {{item.name}}---{{item.count}}
+        <button bindtap="handleProxy" data-eventid="{{'2_'+index}}" data-comkey="{{$k}}" class="_button data-v-20998545">+</button> <button bindtap="handleProxy" data-eventid="{{'3_'+index}}" data-comkey="{{$k}}" class="_button data-v-20998545">删除</button></view>
+    </view>
+    <view class="_div data-v-20998545 cart-bar">
+      <view bindtap="handleProxy" data-eventid="{{'4'}}" data-comkey="{{$k}}" class="_div data-v-20998545">总价：{{allPrice}}</view>
+      <view bindtap="handleProxy" data-eventid="{{'5'}}" data-comkey="{{$k}}" class="_div data-v-20998545">结算</view>
+    </view>
+  </view>
+</template>

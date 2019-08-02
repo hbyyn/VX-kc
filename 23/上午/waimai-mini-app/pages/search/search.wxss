@@ -1,0 +1,23 @@
+.search-area{
+  display: flex;
+  margin: 10px;
+  border: 1rpx solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.search{
+  flex: 1;
+  height: 32px;
+  line-height: 32px;
+  font-size: 14px;
+  padding-left: 10px;
+}
+.button{
+  width: 100px;
+  background: rgb(253,156,57);
+  height: 32px;
+  line-height: 32px;
+  font-size: 14px;
+  text-align: center;
+  color: #fff;
+}

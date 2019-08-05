@@ -1,0 +1,9 @@
+<!--components/son/son.wxml-->
+
+<button wx:for="{{list}}" wx:key="index"
+  bindtap='selectOptionAction' 
+  data-item="{{item}}" data-i="{{index}}" data-val="hello">
+
+  {{item}}
+
+</button>

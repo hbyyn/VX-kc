@@ -1,0 +1,4 @@
+/* components/com/com.wxss */
+.v{
+  background: red;
+}

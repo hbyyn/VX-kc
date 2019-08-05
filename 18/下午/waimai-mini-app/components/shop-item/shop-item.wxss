@@ -1,0 +1,17 @@
+.shop{
+  border-bottom: 1rpx solid #ddd;
+  padding: 10px;
+  display: flex;
+}
+.shop-icon{
+  width: 152rpx;
+}
+.shop-content{
+  margin-left: 14rpx;
+  flex: 1;
+}
+.title{
+  font-size: 14px;
+  font-weight: bold;
+  color: #222;
+}

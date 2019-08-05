@@ -1,0 +1,4 @@
+/**index.wxss**/
+.wrap .v{
+  color: #fff;
+}

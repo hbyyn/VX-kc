@@ -1,0 +1,40 @@
+<!-- 页面的结构 -->
+<!--pages/home/home.wxml-->
+
+<block wx:if="{{false}}">
+<view>1</view>
+<view>1</view>
+</block>
+
+
+<view hidden='{{false}}'>test hidden</view>
+
+{{message}}
+
+<view>
+  <view class='line'></view>
+  <view>
+    <view class='box'></view>
+    <view class='box'></view>
+  </view>
+  <view class='line'></view>
+</view>
+
+<view style="color: {{color}};"></view>
+
+<checkbox checked="{{false}}"></checkbox>
+
+<button open-type='share' id="my-btn">分享</button>
+
+<button bindtap='testAction'>测试</button>
+
+<view wx:for="{{30}}" wx:key="{{index}}">
+  {{item}}
+</view>
+
+
+
+
+
+
+

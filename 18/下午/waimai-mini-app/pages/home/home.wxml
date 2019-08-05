@@ -1,0 +1,40 @@
+<!-- 地址 -->
+<view class="address">
+  <image class='address-icon' mode="widthFix"  src='../../images/address.png'></image>
+  <view class='address-text'>{{addressText}}</view>
+  <image class='address-arrow' mode="widthFix" src='../../images/arrow.png'></image>
+</view>
+
+<!-- 搜索 -->
+<view class='search'>
+  <view class='search-wrap'>
+    <image class="search-icon" src='../../images/search.png' mode="widthFix"></image>
+    <text class='keyword'>请输入搜索关键字</text>
+  </view>
+</view>
+
+<!-- 分类 -->
+<view class='category-wrap'>
+  <swiper class='category' bindchange="categoryChangeAction">
+    <block  wx:for="{{categoryList}}" wx:for-item="list" wx:key="{{index}}">
+      <swiper-item class="category-list">
+        <block wx:for="{{list}}" wx:key="item.cateId">
+          <view class='category-item'>
+            <image mode="widthFix" src="{{item.icon}}"></image>
+            <text>{{item.name}}</text>
+          </view>
+        </block>
+      </swiper-item>
+    </block>
+  </swiper>
+  <view class='dots'>
+    <block  wx:for="{{categoryList}}" wx:key="{{index}}">
+      <view class='dot {{selectIndex===index?"active":""}}'></view>
+    </block>
+  </view>
+</view>
+
+<!-- 店铺列表 -->
+<block wx:for="{{shopList}}" wx:key="{{index}}">
+  <shop-item info="{{item}}"></shop-item>
+</block>

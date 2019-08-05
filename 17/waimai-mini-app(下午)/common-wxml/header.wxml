@@ -1,0 +1,12 @@
+<view class='header'>
+  <slider></slider>
+  <switch></switch>
+  <view>{{title}}</view>
+</view>
+
+
+<view class='header'>
+  <slider></slider>
+  <switch></switch>
+  <view>{{title}}</view>
+</view>

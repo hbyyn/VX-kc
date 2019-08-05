@@ -1,0 +1,6 @@
+<!--components/com/com.wxml-->
+<view class='v'>com</view>
+
+<view>{{title}}</view>
+
+<button bindtap='btnAction'>按钮</button>

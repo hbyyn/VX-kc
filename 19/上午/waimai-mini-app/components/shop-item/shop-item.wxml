@@ -1,0 +1,11 @@
+<!--components/shop-item/shop-item.wxml-->
+<view class="shop">
+  
+  <image class='shop-icon' mode="widthFix" lazy-load="{{true}}" src="{{info.picUrl}}"></image>
+
+  <view class='shop-content'>
+    <view class='title'>{{info.shopName}}</view>
+  </view>
+
+
+</view>

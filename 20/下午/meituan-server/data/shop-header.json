@@ -1,0 +1,32 @@
+{
+  "data": {
+    "shopName": "肯德基宅急送（兴围店）",
+    "shopPic": "http://p1.meituan.net/waimaipoi/f49c565f3c4d51fda6c40a29ca6ff05e16938.jpg",
+    "watcher": 354,
+    "deliveryFee": 9.0,
+    "deliveryType": 0,
+    "deliveryTime": 30,
+    "deliveryMsg": "由 商家 提供配送服务",
+    "minFee": 0.0,
+    "activityList": [
+      {
+        "actDesc": "满69减9;满99减30",
+        "actType": 0,
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png"
+      },
+      {
+        "actDesc": "折扣商品5折起",
+        "actType": 0,
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+      }
+    ],
+    "onlinePay": 1,
+    "bulletin": "欢迎光临肯德基宅急送，专业外送，全程保温，准时送达！",
+    "discountRestrict": 1,
+    "distance": "480m",
+    "bizCode": 0,
+    "shipping_time": "00:00-04:00,05:45-23:59"
+  },
+  "code": 0,
+  "msg": "成功"
+}

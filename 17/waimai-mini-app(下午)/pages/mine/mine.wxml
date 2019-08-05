@@ -1,0 +1,14 @@
+<!--pages/mine/mine.wxml-->
+
+<include src="../../common-wxml/header.wxml"/>
+
+<text>pages/mine/mine.wxml</text>
+
+
+<import src="../../template/list-item.wxml"/>
+
+
+<!-- 使用模版, 传入模版数据 -->
+<!-- 模版中使用的数据，都应该让data传入 -->
+<template is="msgItem" data="{{index: 1, msg: 'mine ', time: '2019-04-17'}}">
+</template>

@@ -1,0 +1,6 @@
+<view class="box">
+  <view>box2</view>
+
+  <switch bindchange='switchChangeAction'></switch>
+
+</view>

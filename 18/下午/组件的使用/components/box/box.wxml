@@ -1,0 +1,7 @@
+<view class="box">
+
+  <view>box</view>
+
+  <slider bindchange='sliderChangeAction'></slider>
+
+</view>

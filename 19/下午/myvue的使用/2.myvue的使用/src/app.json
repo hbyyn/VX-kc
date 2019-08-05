@@ -1,0 +1,48 @@
+{
+    "pages": [
+      "pages/home/main",
+      "pages/order/main",
+      "pages/mine/main"
+    ],
+    "window": {
+      "navigationBarBackgroundColor": "#fff",
+      "navigationBarTitleText": "美团外卖",
+      "navigationBarTextStyle": "black",
+      "navigationStyle": "default",
+      "backgroundColor": "#efefef",
+      "backgroundTextStyle": "dark",
+      "pageOrientation": "auto"
+    },
+    "tabBar": {
+      "color": "#999",
+      "selectedColor": "#333",
+      "backgroundColor": "#fff",
+      "borderStyle": "black",
+      "position": "bottom",
+      "list": [
+        {
+          "pagePath": "pages/home/main",
+          "text": "首页",
+          "iconPath": "static/images/home-n.png",
+          "selectedIconPath": "static/images/home-a.png"
+        },
+        {
+          "pagePath": "pages/order/main",
+          "text": "订单",
+          "iconPath": "static/images/order-n.png",
+          "selectedIconPath": "static/images/order-a.png"
+        },
+        {
+          "pagePath": "pages/mine/main",
+          "text": "我的",
+          "iconPath": "static/images/mine-n.png",
+          "selectedIconPath": "static/images/mine-a.png"
+        }
+      ]
+    },
+    "permission": {
+      "scope.userLocation": {
+        "desc": "你的位置信息将用于美团外卖小程序"
+      }
+    }
+  }

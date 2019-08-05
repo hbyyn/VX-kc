@@ -1,0 +1,19 @@
+{
+    "pages": [
+      "pages/detail/main"
+    ],
+    "window": {
+      "navigationBarBackgroundColor": "#fff",
+      "navigationBarTitleText": "美团外卖",
+      "navigationBarTextStyle": "black",
+      "navigationStyle": "default",
+      "backgroundColor": "#efefef",
+      "backgroundTextStyle": "dark",
+      "pageOrientation": "auto"
+    },
+    "permission": {
+      "scope.userLocation": {
+        "desc": "你的位置信息将用于美团外卖小程序"
+      }
+    }
+  }

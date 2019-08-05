@@ -1,0 +1,5 @@
+/* components/box/box.wxss */
+.box{
+  padding: 50px;
+  background: yellowgreen;
+}

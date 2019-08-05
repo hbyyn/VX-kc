@@ -1,0 +1,9 @@
+/* 页面的样式 */
+@import "../../common.wxss";
+
+/* .header{
+  width: 100%;
+  height: 64px;
+  background: #ad9;
+} */
+

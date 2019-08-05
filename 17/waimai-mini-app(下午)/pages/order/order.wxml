@@ -1,0 +1,36 @@
+<!--pages/order/order.wxml-->
+<text>pages/order/order.wxml</text>
+
+
+
+
+<!-- 声明模版 -->
+<!-- <template name="msgItem">
+  <view>
+    <text>{{index}}: {{msg}}</text>
+    <text>Time: {{time}}</text>
+    <view>{{title}}</view>
+  </view>
+</template> -->
+
+
+<import src="../../template/list-item.wxml"/>
+
+
+<!-- 使用模版, 传入模版数据 -->
+<!-- 模版中使用的数据，都应该让data传入 -->
+<template is="msgItem" data="{{index: 1, msg: 'hello', time: '2019-04-17'}}">
+</template>
+
+
+
+<template is="msgItem" data="{{index: 2, msg: 'hello', time: '2019-04-18'}}">
+</template>
+
+
+
+<template is="msgItem2" data="{{index: 3, msg: 'hello', time: '2019-04-19'}}">
+</template>
+
+
+<include src="../../common-wxml/header.wxml"/>

@@ -1,0 +1,6 @@
+{
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "shop-item": "/components/shop-item/shop-item"
+  }
+}

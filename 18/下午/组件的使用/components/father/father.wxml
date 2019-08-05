@@ -1,0 +1,9 @@
+<!--components/father/father.wxml-->
+<text>components/father/father.wxml</text>
+
+<view>
+  用户选择了：{{sonData}}
+</view>
+
+
+<son-com title="test"  bindselected="handleSelect"/>

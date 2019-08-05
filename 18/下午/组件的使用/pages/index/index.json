@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "my-com": "/components/com/com",
+    "father-com": "/components/father/father",
+    "wrap-com": "/components/wrap/wrap",
+    "box-com": "/components/box/box",
+    "box2-com": "/components/box2/box2"
+  }
+}

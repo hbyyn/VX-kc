@@ -1,0 +1,8 @@
+<view class="wrap" style="background: {{color}};">
+
+  <view>wrap</view>
+  <view>value:{{val}}</view>
+  <slot/>
+
+</view>
+

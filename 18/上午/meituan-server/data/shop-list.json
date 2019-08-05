@@ -1,0 +1,3700 @@
+[
+  {
+    "mtWmPoiId": "1072192520621122",
+    "shopName": "肯德基宅急送（政丰店）",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售914",
+    "picUrl": "http://p1.meituan.net/waimaipoi/f49c565f3c4d51fda6c40a29ca6ff05e16938.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥9",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.0km",
+    "averagePriceTip": "人均 ¥37",
+    "discounts2": [
+      {
+        "info": "折扣商品7.49折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额0元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道德丰路北侧龙腾市场第一层H区",
+    "shipping_time": "00:00-04:00,05:45-23:59"
+  },
+  {
+    "mtWmPoiId": "1074769501010918",
+    "shopName": "深圳麦当劳福永餐厅",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售2291",
+    "picUrl": "http://p0.meituan.net/xianfu/aa86bc1b9a218ea5e094b861c03b59b94873.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥9",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.4km",
+    "averagePriceTip": "人均 ¥38",
+    "recommendInfo": {
+      "icon": "http://p1.meituan.net/xianfu/a0b192ffdab672109d9f767dbd49653a919.png",
+      "recommendReason": "大众点评高分店铺",
+      "type": 3
+    },
+    "discounts2": [
+      {
+        "info": "折扣商品5.66折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额0元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福永大道怀德城市花园首层麦当劳",
+    "shipping_time": "00:00-04:45,05:00-10:15,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "889862568943141",
+    "shopName": "撸串（白石厦店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售5616",
+    "picUrl": "http://p0.meituan.net/business/ab6f3ba0e98789489e908d096794f5b069644.png",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "930m",
+    "averagePriceTip": "人均 ¥38",
+    "discounts2": [
+      {
+        "info": "满8减4;满68减10;满120减22;满160减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品8.8折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领26元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返8元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区横巷十三巷1号龙翔北路100号",
+    "shipping_time": "00:00-03:00,12:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1082444607574878",
+    "shopName": "汕头牛肉(福永总店)",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售5854",
+    "picUrl": "http://p0.meituan.net/business/01fb2cd517f88da873464da888a36725833132.png",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "591m",
+    "averagePriceTip": "人均 ¥24",
+    "recommendInfo": {
+      "icon": "http://p1.meituan.net/xianfu/a0b192ffdab672109d9f767dbd49653a919.png",
+      "recommendReason": "大众点评高分店铺",
+      "type": 3
+    },
+    "discounts2": [
+      {
+        "info": "满50减8;满80减10",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦西区河南中心区1栋永盛大厦首层2号铺",
+    "shipping_time": "00:00-01:00,09:55-18:00,18:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1083410975224109",
+    "shopName": "炭工烧烤（福永店）",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售687",
+    "picUrl": "http://p0.meituan.net/waimaipoi/6da9cea0069cfe4e6e2a048413215d5783531.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥30",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "665m",
+    "averagePriceTip": "人均 ¥33",
+    "discounts2": [
+      {
+        "info": "满20减10;满55减15;满130减35;满198减48",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付30元返2元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道聚福社区裕华园西33栋A龙翔北路5号",
+    "shipping_time": "00:00-02:50,17:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1017844004450167",
+    "shopName": "窑鸡王（怀德店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售1187",
+    "picUrl": "http://p0.meituan.net/waimaipoi/cb79a6e45949265a8d1a86e05dc1f52764905.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "39分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥10",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.4km",
+    "averagePriceTip": "人均 ¥91",
+    "discounts2": [
+      {
+        "info": "满60减27;满120减35",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道怀德社区福永大道128号怀德村委旁东门商业中心汇隆城商场一楼H1-47号",
+    "shipping_time": "00:00-05:00,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "865157917079490",
+    "shopName": "友情客串烧烤（福永店）",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售1360",
+    "picUrl": "http://p0.meituan.net/waimaipoi/f9b8af02ae848306228e6857bd4cb2ee106562.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "714m",
+    "averagePriceTip": "人均 ¥25",
+    "discounts2": [
+      {
+        "info": "满30减12;满58减22;满98减33",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.76折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领8元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付78元返5元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "白石厦社区横巷九巷3号101",
+    "shipping_time": "00:00-04:00,17:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1059440762700798",
+    "shopName": "最湘菜（福永店）",
+    "wmPoiScore": 48,
+    "monthSalesTip": "月售677",
+    "picUrl": "http://p1.meituan.net/waimaipoi/698f6e02fa7768eba49a513120cdc746207567.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.4km",
+    "averagePriceTip": "人均 ¥27",
+    "discounts2": [
+      {
+        "info": "满28减12;满60减25;满100减35",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5.5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付38元返2元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区东区新开发区二巷1号新开发区二巷1号",
+    "shipping_time": "10:00-23:55"
+  },
+  {
+    "mtWmPoiId": "1102566529363707",
+    "shopName": "至尊比萨（福永店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售2131",
+    "picUrl": "http://p0.meituan.net/business/4c16619fb3879f6035390675b0003433130625.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "167m",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满29减10;满49减20;满69减30;满99减40",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4.2折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领3元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付29元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额100元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区石厦路5号裕华园西A栋万福龙洲百货一楼151#号铺",
+    "shipping_time": "00:00-01:00,10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "906771855234371",
+    "shopName": "鲜记海鲜烧烤",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售471",
+    "picUrl": "http://p1.meituan.net/waimaipoi/662fe033a81e61d3e5135e9febd720cf55296.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "868m",
+    "averagePriceTip": "人均 ¥25",
+    "discounts2": [
+      {
+        "info": "满18减3;满38减5;满68减8;满98减10",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区横巷十一巷8号横巷十一巷8-4号",
+    "shipping_time": "00:00-05:30,18:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1008622709670384",
+    "shopName": "松哥油焖大虾（虾·蟹·海鲜·福永店）",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售687",
+    "picUrl": "http://p0.meituan.net/waimaipoi/1f3778b47e9e5df52b663936334ba2ac275411.png",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "72分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥49",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.3km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满20减10;满135减15;满220减22;满320减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5.54折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领8元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额0元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道怀德社区芳华二区五巷1号芳华二区五巷1-1号",
+    "shipping_time": "00:00-02:00,12:00-23:59"
+  },
+  {
+    "mtWmPoiId": "905474775119966",
+    "shopName": "粥大师·熬足8小时（福永店）",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售1531",
+    "picUrl": "http://p0.meituan.net/waimaipoi/878880f21d14431f477a5a010d403328189125.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "854m",
+    "averagePriceTip": "人均 ¥19",
+    "discounts2": [
+      {
+        "info": "满22减7;满27减12;满37减17;满43减22;满55减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4.4折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "新客领2元券;领5元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返2元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区石龙头旧村六巷9号102",
+    "shipping_time": "00:00-01:00,06:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1014240526889577",
+    "shopName": "小太堡炸鸡汉堡（福永店）",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售6799",
+    "picUrl": "http://p0.meituan.net/business/07af0be387ada0f1be67155518eef4bc199664.png",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.5km",
+    "averagePriceTip": "人均 ¥19",
+    "discounts2": [
+      {
+        "info": "满30减24;满50减29;满80减44;满100减53",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.27折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券;领4元券;领8元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返2元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道怀德社区福永大道128号107",
+    "shipping_time": "00:00-01:00,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1037459120063707",
+    "shopName": "八号虾皇",
+    "wmPoiScore": 39,
+    "monthSalesTip": "月售249",
+    "picUrl": "http://p1.meituan.net/wmproduct/de5bbab2d434c1144fa0669966d9d5e0556543.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.9km",
+    "averagePriceTip": "",
+    "address": "深圳市宝安区福永街道福永大道39-8号商铺",
+    "shipping_time": "00:00-03:00,16:00-23:59"
+  },
+  {
+    "mtWmPoiId": "957667217657380",
+    "shopName": "悟饭先生(烧烤)",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售919",
+    "picUrl": "http://p0.meituan.net/business/cc7d17a920edc3bde4208a4c38bf4786139583.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "923m",
+    "averagePriceTip": "人均 ¥29",
+    "discounts2": [
+      {
+        "info": "满16减2;满31减10;满82减18;满199减39",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品7.99折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领6元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付39元返6元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区石龙头新村三巷2号101",
+    "shipping_time": "00:00-02:00,15:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1108867246378331",
+    "shopName": "萌叔小龙虾(烤鱼·大闸蟹·海鲜福永店)",
+    "wmPoiScore": 40,
+    "monthSalesTip": "月售2795",
+    "picUrl": "http://p0.meituan.net/waimaipoi/42dd1402cdedaeeaa7f006c22f8bd681394628.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "52分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥38",
+    "shippingFeeTip": "配送 ¥3.8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.4km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满59减21;满159减45;满299减65",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.12折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付129元返10元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道福永社区一队四巷6-1",
+    "shipping_time": "00:00-02:00,10:29-14:30,16:30-23:59"
+  },
+  {
+    "mtWmPoiId": "955266330922523",
+    "shopName": "韩式炸鸡",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售2680",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0f85a671fba8fcb3c1e112ecbb46660d47104.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "461m",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满25减22;满68减32;满128减58;满168减70",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区裕华园西29栋裕华园西29-9号",
+    "shipping_time": "00:00-01:30,10:15-23:59"
+  },
+  {
+    "mtWmPoiId": "990661156459929",
+    "shopName": "粉霸花（福永店）",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售1640",
+    "picUrl": "http://p0.meituan.net/waimaipoi/c01981d74edb0654feff184606b2e1c5194092.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥35",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "499m",
+    "averagePriceTip": "人均 ¥34",
+    "address": "深圳市宝安区福永街道白石厦裕华园西11栋103铺",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "934143681766162",
+    "shopName": "1号粥店（福永店）",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售9999+",
+    "picUrl": "http://p0.meituan.net/waimaipoi/bd89c4678828f4d6438b02a3dce62a6021901.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "364m",
+    "averagePriceTip": "人均 ¥17",
+    "discounts2": [
+      {
+        "info": "满28减16;满45减21;满58减25;满70减28;满80减32",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.17折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区永安坊东五巷3号103",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1100496355091496",
+    "shopName": "江味龙虾馆（耕据地店）",
+    "wmPoiScore": 49,
+    "monthSalesTip": "月售577",
+    "picUrl": "http://p0.meituan.net/waimaipoi/d02ae32c2c04da23af75f3a8c00e40bf48460.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "691m",
+    "averagePriceTip": "人均 ¥28",
+    "recommendInfo": {
+      "icon": "http://p1.meituan.net/xianfu/a0b192ffdab672109d9f767dbd49653a919.png",
+      "recommendReason": "大众点评高分店铺",
+      "type": 3
+    },
+    "discounts2": [
+      {
+        "info": "满98减14;满186减25;满386减48;满518减65",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道聚福社区裕华园31栋A龙翔北路1号（万福广场正门对面）",
+    "shipping_time": "00:00-02:30,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "985258087592519",
+    "shopName": "潮新砂锅粥大排档",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售1401",
+    "picUrl": "http://p0.meituan.net/waimaipoi/94f3179b2196f22f27f47a932eca0cc888915.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "38分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.6km",
+    "averagePriceTip": "人均 ¥39",
+    "discounts2": [
+      {
+        "info": "满58减5;满88减8;满128减10",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品8.79折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福永社区西环路32号",
+    "shipping_time": "00:00-04:00,17:00-23:59"
+  },
+  {
+    "mtWmPoiId": "888084452538480",
+    "shopName": "韩式炸鸡啤酒屋（万福广场店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售712",
+    "picUrl": "http://p0.meituan.net/business/1ee45e993e6d1cc4cc2fde1621f33629170337.png",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.0km",
+    "averagePriceTip": "人均 ¥22",
+    "discounts2": [
+      {
+        "info": "满30减26;满60减28;满90减38;满120减48",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品3.02折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领6元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道聚福社区德芳路福怡商住中心芳华三区21-2号",
+    "shipping_time": "00:00-02:30,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1097257949745608",
+    "shopName": "华莱士炸鸡汉堡（福永店）",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售2126",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b42ab1c2efb6ace01ce89cc29f163f9e54377.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "532m",
+    "averagePriceTip": "人均 ¥23",
+    "discounts2": [
+      {
+        "info": "满28减5;满52减12;满108减38",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.91折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永镇白石厦东区永丰二路8--7号",
+    "shipping_time": "00:00-01:00,09:15-23:59"
+  },
+  {
+    "mtWmPoiId": "1081615678880877",
+    "shopName": "叫了只炸鸡（福永总店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售2263",
+    "picUrl": "http://p0.meituan.net/waimaipoi/8f5736c38e465c6f3939cd704543bfff101821.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.0km",
+    "averagePriceTip": "人均 ¥22",
+    "discounts2": [
+      {
+        "info": "满20减11;满50减20;满88减30;满128减40",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.33折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领3元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道聚福社区芳华三区29栋芳华三区29-2号",
+    "shipping_time": "00:00-02:00,09:50-23:59"
+  },
+  {
+    "mtWmPoiId": "891898383459739",
+    "shopName": "牛蛙爱上虾（牛蛙.虾.大闸蟹.福永店）",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售495",
+    "picUrl": "http://p1.meituan.net/business/c6f2d23ddd50f046d0c8d475ab1f41a845264.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "47分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥50",
+    "shippingFeeTip": "配送 ¥2",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "831m",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满20减8;满128减15;满198减30;满398减50",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.1折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领8元券;领50元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付160元返4元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满188元赠送可乐",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "白石厦社区横巷九巷2-1号",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "958616405428747",
+    "shopName": "虾姐姐小龙虾",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售527",
+    "picUrl": "http://p0.meituan.net/waimaipoi/7dacaa3a571ef698990b3dd4f22212be247808.jpg",
+    "poiTypeIcon": "http://p0.meituan.net/aichequan/eb83cb963e67bc0ea4db4d7aef69d62f2578.png",
+    "deliveryTimeTip": "60分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥98",
+    "shippingFeeTip": "配送 ¥10",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "4.3km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满58减38;满88减68;满138减98;满188减155",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.25折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领8元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付138元返10元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福海街道塘尾社区塘尾二十四区二巷11号二十四区二巷11-3号",
+    "shipping_time": "00:00-03:00,11:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1078046561047388",
+    "shopName": "柳州螺蛳粉（福永店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售1916",
+    "picUrl": "http://p1.meituan.net/waimaipoi/00855fcfb2be1a9a9d839b0ae862ac5720480.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "119m",
+    "averagePriceTip": "人均 ¥21",
+    "discounts2": [
+      {
+        "info": "满26减2;满38减4;满50减6",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品8.44折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦裕华园东9-4号",
+    "shipping_time": "00:00-02:30,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1077737323427723",
+    "shopName": "山水人家湘菜馆",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售6094",
+    "picUrl": "http://p1.meituan.net/waimaipoi/1e3c5e13cd12d5b488de64213fecaca138912.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.3km",
+    "averagePriceTip": "人均 ¥19",
+    "discounts2": [
+      {
+        "info": "满26减4;满48减8",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.6折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永镇白石厦东区新开发区4-11",
+    "shipping_time": "10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "970741098141371",
+    "shopName": "洪记潮汕牛肉店",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售930",
+    "picUrl": "http://p1.meituan.net/waimaipoi/c4c0098eca18cdc91178d68fb16ae9f6911551.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.1km",
+    "averagePriceTip": "人均 ¥28",
+    "discounts2": [
+      {
+        "info": "满35减3;满60减4;满100减8",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区龙腾阁小区35栋104",
+    "shipping_time": "00:00-03:00,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "891640685398393",
+    "shopName": "老签门小郡肝串串香（福永店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售733",
+    "picUrl": "http://p0.meituan.net/waimaipoi/56722ce22d0160af03ef32d96a4cc3b2136896.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "665m",
+    "averagePriceTip": "人均 ¥31",
+    "recommendInfo": {
+      "icon": "http://p1.meituan.net/xianfu/a0b192ffdab672109d9f767dbd49653a919.png",
+      "recommendReason": "大众点评高分店铺",
+      "type": 3
+    },
+    "discounts2": [
+      {
+        "info": "满35减10;满50减15;满78减20;满158减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.85折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领8元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返10元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区龙祥北路18号1楼",
+    "shipping_time": "00:00-02:00,11:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1025184103585892",
+    "shopName": "正新鸡排（福永店）",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售2797",
+    "picUrl": "http://p1.meituan.net/waimaipoi/2344cd7f2391a49d5379fc020b4cb1ef319189.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "50分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥0",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "680m",
+    "averagePriceTip": "人均 ¥23",
+    "discounts2": [
+      {
+        "info": "满25减15;满35减17;满50减30;满70减38",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满45元赠送可乐一瓶",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦东区永丰二路3号家家乐百货门口3号铺",
+    "shipping_time": "00:00-03:00,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "969577162003016",
+    "shopName": "回味蟹钳（福永店）",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售261",
+    "picUrl": "http://p1.meituan.net/waimaipoi/18279a02fdcd1c0fc72459214da763cc290816.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥3",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "40m",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满50减3;满100减5;满150减8;满200减10",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区裕华园东4栋裕华园东4-2号",
+    "shipping_time": "00:00-03:00,16:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1111418456953482",
+    "shopName": "头号粥铺（福永店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售5537",
+    "picUrl": "http://p1.meituan.net/business/c14741c0e3d62a1d891a64437e365821762476.png",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "865m",
+    "averagePriceTip": "人均 ¥18",
+    "discounts2": [
+      {
+        "info": "满28减16;满48减21;满58减26;满88减35",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.67折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券;领4元券;领8元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返2元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区石龙头旧村十一巷10号101",
+    "shipping_time": "00:00-01:00,06:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1123590394231616",
+    "shopName": "寻窑记（福永店）",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售476",
+    "picUrl": "http://p0.meituan.net/waimaipoi/fb7a7d03c5ed9a4dfce59ce7b85be80d317720.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "45分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥8.8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "895m",
+    "averagePriceTip": "人均 ¥71",
+    "discounts2": [
+      {
+        "info": "满45减18;满90减27;满120减35",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领8元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区石龙头旧村十一巷16号102",
+    "shipping_time": "00:00-03:00,16:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1075091623545158",
+    "shopName": "豆谷府深夜豆浆（福永店）",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售1010",
+    "picUrl": "http://p0.meituan.net/waimaipoi/ddfe9422f927dc2fef33bc1f41420db545877.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "289m",
+    "averagePriceTip": "人均 ¥24",
+    "discounts2": [
+      {
+        "info": "满38减5;满78减10;满128减15",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5.21折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区永安坊东二巷1号201(石厦路42号)",
+    "shipping_time": "00:00-02:45,17:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1093087536486686",
+    "shopName": "1号油条豆浆先生（福永店）",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售3425",
+    "picUrl": "http://p0.meituan.net/waimaipoi/35ba38403ded71f20470bc34a4776393673707.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.7km",
+    "averagePriceTip": "人均 ¥19",
+    "discounts2": [
+      {
+        "info": "满28减15;满43减20;满58减25;满78减28;满88减32",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4.18折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福海街道新和社区西环路19号102",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "949854672155688",
+    "shopName": "一嘉韩式炸鸡（福永店）",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售268",
+    "picUrl": "http://p0.meituan.net/waimaipoi/c9110e02f52ee28b79493b6d051ef0df125800.jpg",
+    "poiTypeIcon": "http://p0.meituan.net/aichequan/eb83cb963e67bc0ea4db4d7aef69d62f2578.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "547m",
+    "averagePriceTip": "人均 ¥21",
+    "discounts2": [
+      {
+        "info": "满10减5;满30减12;满50减22;满65减29;满120减42",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.25折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领5元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返5元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区横巷三巷3号103",
+    "shipping_time": "00:00-01:00,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1004353512209509",
+    "shopName": "必须好正宗东北烤串",
+    "wmPoiScore": 37,
+    "monthSalesTip": "月售770",
+    "picUrl": "http://p0.meituan.net/waimaipoi/6c6298559c0d3439b3721fd7450d859c869673.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.1km",
+    "averagePriceTip": "人均 ¥36",
+    "discounts2": [
+      {
+        "info": "满60减5;满100减8;满150减15;满200减20",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品7.5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区永安访西十五巷8号103（龙翔山庄对面)",
+    "shipping_time": "00:00-03:00,17:58-23:59"
+  },
+  {
+    "mtWmPoiId": "1067455171709969",
+    "shopName": "京福记北京烤鸭（福永店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售2116",
+    "picUrl": "http://p0.meituan.net/waimaipoi/64d36c512748324ff87e1725307b64b838912.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "34分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "756m",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满20减10;满30减18;满88减36;满168减83;满336减166",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.2折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满168元赠送百事可乐330ml一罐",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区横巷十一巷6号横巷十一巷6-3号-1",
+    "shipping_time": "00:00-03:00,10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "896760286447132",
+    "shopName": "开心花甲（下十围店）",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售2111",
+    "picUrl": "http://p0.meituan.net/waimaipoi/4280b534b32682f24f71838512709de3233771.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.4km",
+    "averagePriceTip": "人均 ¥21",
+    "discounts2": [
+      {
+        "info": "满13减13;满50减20;满100减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.6折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福围社区东福围西街38-2号",
+    "shipping_time": "00:00-02:00,10:20-23:59"
+  },
+  {
+    "mtWmPoiId": "1117066338897160",
+    "shopName": "味嘟嘟麻辣烫",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售1866",
+    "picUrl": "http://p1.meituan.net/business/b008c73a9e24e1a90a37ee0c517d690524687.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "243m",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满26减11;满58减20;满78减26",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满38元赠送赠送可乐或雪碧一瓶",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区永安坊东一巷3号",
+    "shipping_time": "00:00-05:00,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "947814562720097",
+    "shopName": "佳香·常德牛肉粉",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售880",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b2a9b3d41ff38d3187b2ec0376b496ee137216.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥16",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.2km",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满15减5;满30减10;满50减15;满88减20",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.52折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付34元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永镇芳华二路十号聚福楼首层湖南常德牛肉粉",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "904216349690289",
+    "shopName": "肯莱士炸鸡汉堡店",
+    "wmPoiScore": 38,
+    "monthSalesTip": "月售1524",
+    "picUrl": "http://p1.meituan.net/business/a083f6ae92e7ab752dd0bf9840fa594595724.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥1",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.3km",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满30减27;满50减32;满80减53;满110减65",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.31折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦东区新开发区3-12号",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1023560605937547",
+    "shopName": "大掌柜凉皮肉夹馍（福永店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售1776",
+    "picUrl": "http://p1.meituan.net/waimaipoi/e08e364da84340bd3f6bb3fb983ab36e47363.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "357m",
+    "averagePriceTip": "人均 ¥21",
+    "discounts2": [
+      {
+        "info": "满22减11;满35减14;满50减19;满80减25;满100减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.79折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石夏社区永安坊西四巷2号104铺",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "892821801403769",
+    "shopName": "川菜馆（白石厦东店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售3399",
+    "picUrl": "http://p0.meituan.net/waimaipoi/555d1ce06f7ce86d91895de3b11ae65f280576.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.4km",
+    "averagePriceTip": "人均 ¥16",
+    "discounts2": [
+      {
+        "info": "满31减10;满70减11",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.6折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区白石厦东区龙王庙第1门市4-3号(红树林休闲会所旁）",
+    "shipping_time": "00:00-01:30,10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "882831707488530",
+    "shopName": "新亨粿条店",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售827",
+    "picUrl": "http://p0.meituan.net/waimaipoi/758e982f406b1b8263891980bf103c41526639.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.6km",
+    "averagePriceTip": "人均 ¥29",
+    "discounts2": [
+      {
+        "info": "折扣商品7.58折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道怀德社区芳华一区一巷8号101",
+    "shipping_time": "00:00-02:30,17:01-23:59"
+  },
+  {
+    "mtWmPoiId": "1123860977177386",
+    "shopName": "烤小二（福围店）",
+    "wmPoiScore": 36,
+    "monthSalesTip": "月售695",
+    "picUrl": "http://p1.meituan.net/waimaipoi/2b24b3cf0c9e4890792785d896d06cbb79773.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "44分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥30",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.6km",
+    "averagePriceTip": "人均 ¥36",
+    "discounts2": [
+      {
+        "info": "满58减8;满158减25;满218减35",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.6折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "下十围市场商住街61-5",
+    "shipping_time": "00:01-02:10,18:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1006415096459771",
+    "shopName": "大叔的炒饭（福永店）",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售2429",
+    "picUrl": "http://p1.meituan.net/waimaipoi/07743efec7dc1ed43895ff04e8faefe8138012.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "87m",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满10减10;满25减13;满35减15;满60减21;满90减31",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品3.4折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "新客领3元券;领4元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区裕华园东18号裕华园东18-1号",
+    "shipping_time": "10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "929835829586756",
+    "shopName": "食华客家汤粉（福永店）",
+    "wmPoiScore": 40,
+    "monthSalesTip": "月售4564",
+    "picUrl": "http://p1.meituan.net/waimaipoi/5d588afb56915881302045fd37b3c64f645247.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.0km",
+    "averagePriceTip": "人均 ¥16",
+    "discounts2": [
+      {
+        "info": "满3减2;满20减7;满34减12;满58减18;满80减28",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品3.45折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券;领3元券;领4元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区石龙头旧村六巷8号103",
+    "shipping_time": "00:00-13:00,22:00-23:59"
+  },
+  {
+    "mtWmPoiId": "932597493572008",
+    "shopName": "上品鲜烧鸡（福永品质店）",
+    "wmPoiScore": 49,
+    "monthSalesTip": "月售477",
+    "picUrl": "http://p0.meituan.net/waimaipoi/2d1cf8ab56bc0ee652568065fa93aa17172653.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "935m",
+    "averagePriceTip": "人均 ¥75",
+    "discounts2": [
+      {
+        "info": "满11减7;满50减9;满115减22",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付5元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区石龙头旧村六巷9号103",
+    "shipping_time": "00:00-11:59,12:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1084016565551378",
+    "shopName": "销魂钵钵鸡",
+    "wmPoiScore": 48,
+    "monthSalesTip": "月售2279",
+    "picUrl": "http://p0.meituan.net/business/d7cd3371c5d993a652a9243d67ca8340192276.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.6km",
+    "averagePriceTip": "人均 ¥27",
+    "discounts2": [
+      {
+        "info": "满25减3;满30减5;满50减10;满100减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福围社区福围路123-2-1",
+    "shipping_time": "00:00-02:00,10:40-23:59"
+  },
+  {
+    "mtWmPoiId": "982023977200967",
+    "shopName": "艾克士炸鸡汉堡(福永店)",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售701",
+    "picUrl": "http://p0.meituan.net/business/3bb151c7c0be15ae00de090989dc4686259387.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "260m",
+    "averagePriceTip": "人均 ¥19",
+    "discounts2": [
+      {
+        "info": "满25减13;满50减23;满98减33",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4.13折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付25元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区白石厦路129号一楼",
+    "shipping_time": "00:00-03:00,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1107900878711571",
+    "shopName": "京人烧烤（同泰时代广场店）",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售440",
+    "picUrl": "http://p0.meituan.net/waimaipoi/999b502b4f5dd8dbaca2d218106d3ca120405.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥58",
+    "shippingFeeTip": "夜间配送 ¥10",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.2km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满68减10;满108减15;满188减20;满218减30;满288减40",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品2.06折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福海街道桥头社区同泰总部产业园厂房2栋同泰时代中心L1层49号铺",
+    "shipping_time": "00:00-01:30,11:30-23:58"
+  },
+  {
+    "mtWmPoiId": "881805210327979",
+    "shopName": "粥多点（福永店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售9316",
+    "picUrl": "http://p1.meituan.net/business/c219dc33e436e0ea589595a9433a869c678334.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.1km",
+    "averagePriceTip": "人均 ¥16",
+    "discounts2": [
+      {
+        "info": "满25减13;满40减20;满68减30;满98减40",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4.96折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付38元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区石龙头旧村三巷5号101（海利茶餐厅旁巷子直走50米）",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "860291719165427",
+    "shopName": "云客聚石磨坊(麻辣烫)",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售26",
+    "picUrl": "http://p1.meituan.net/waimaipoi/9d893329fd6da62b88c771a65cb8557049152.jpg",
+    "poiTypeIcon": "http://p0.meituan.net/aichequan/eb83cb963e67bc0ea4db4d7aef69d62f2578.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.0km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满25减13;满45减18;满60减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领3元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满38元赠送可口可乐",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区石龙头旧村四巷7号101",
+    "shipping_time": "00:00-19:00,19:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1096983071818111",
+    "shopName": "华莱士炸鸡汉堡(白石厦店)",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售992",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b42ab1c2efb6ace01ce89cc29f163f9e54377.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "597m",
+    "averagePriceTip": "人均 ¥24",
+    "discounts2": [
+      {
+        "info": "满28减5;满52减12;满108减38",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品2.49折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳福永白石厦裕华园西26栋",
+    "shipping_time": "00:00-03:00,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1069022834780539",
+    "shopName": "丰顺美食（捆粄肠粉店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售984",
+    "picUrl": "http://p1.meituan.net/waimaipoi/df50cbf4616b16595106566a4a2978f8321246.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥25",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "591m",
+    "averagePriceTip": "人均 ¥25",
+    "discounts2": [
+      {
+        "info": "折扣商品8.82折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满36元赠送盒装菊花茶/盒",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区白石厦旧村13巷1-2",
+    "shipping_time": "00:00-03:00,16:25-23:59"
+  },
+  {
+    "mtWmPoiId": "912952313142306",
+    "shopName": "东北手工水饺（白石厦店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售1760",
+    "picUrl": "http://p0.meituan.net/waimaipoi/03bf4484cb238f4b21c4100574b1ab3a30720.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "157m",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满25减3;满50减5;满90减9",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区白石路52号",
+    "shipping_time": "10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1002592575573654",
+    "shopName": "化州清爽甜品",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售2161",
+    "picUrl": "http://p0.meituan.net/waimaipoi/56c60dfebbe76d9fd64b00c28bb8f3a130720.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.5km",
+    "averagePriceTip": "人均 ¥13",
+    "discounts2": [
+      {
+        "info": "满25减10;满39减12;满59减14;满79减16;满110减20",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品8.2折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道桥头社区桥南新区73栋左号铺",
+    "shipping_time": "00:00-09:13,09:13-23:59"
+  },
+  {
+    "mtWmPoiId": "1047621012748819",
+    "shopName": "诚记砂锅粥大排档",
+    "wmPoiScore": 37,
+    "monthSalesTip": "月售742",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0b7a64d838b409a78faa0d3113da1b0c17661.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.2km",
+    "averagePriceTip": "人均 ¥31",
+    "discounts2": [
+      {
+        "info": "折扣商品9.33折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永怀德芳华二区五巷9号",
+    "shipping_time": "00:00-03:00,17:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1008197507920410",
+    "shopName": "张亮麻辣烫（福永店）",
+    "wmPoiScore": 40,
+    "monthSalesTip": "月售1199",
+    "picUrl": "http://p0.meituan.net/waimaipoi/da91dd303a825de52c8a9a03a9b85d8518432.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "505m",
+    "averagePriceTip": "人均 ¥22",
+    "discounts2": [
+      {
+        "info": "满25减3;满50减8;满100减18",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区裕华园西20栋裕华园西20-1",
+    "shipping_time": "11:00-23:59"
+  },
+  {
+    "mtWmPoiId": "976835656723201",
+    "shopName": "湘赣山村木桶饭（福永店）",
+    "wmPoiScore": 40,
+    "monthSalesTip": "月售1012",
+    "picUrl": "http://p0.meituan.net/waimaipoi/32a4a5041f3c897cb964a59323e223a640960.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.7km",
+    "averagePriceTip": "人均 ¥18",
+    "discounts2": [
+      {
+        "info": "满10减9;满25减24;满88减25;满1000减300;满2000减700",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品3.99折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付15元返2元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区东区龙王庙路3号龙王庙3-16~3-17",
+    "shipping_time": "09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "993397050623157",
+    "shopName": "潮汕鸭肉粿（白石厦店）",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售876",
+    "picUrl": "http://p0.meituan.net/waimaipoi/fe7dd8efeb65df0052fdcc2444d245aa317440.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "797m",
+    "averagePriceTip": "人均 ¥30",
+    "discounts2": [
+      {
+        "info": "满28减3;满58减6;满88减10;满108减15",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区石龙头旧村龙翔北路8号101（乐购对面）",
+    "shipping_time": "00:00-04:00,17:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1122284724186232",
+    "shopName": "马山烧烤店",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售225",
+    "picUrl": "http://p0.meituan.net/waimaipoi/f7464215258cbd60a615f9f80be6847638912.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "36分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥30",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.1km",
+    "averagePriceTip": "人均 ¥36",
+    "discounts2": [
+      {
+        "info": "折扣商品6.67折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满65元赠送雪碧/可乐或菠萝啤两罐",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道立新路49号3-4号铺",
+    "shipping_time": "00:00-04:00,18:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1047925955422904",
+    "shopName": "火辣盱眙龙虾（福永店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售327",
+    "picUrl": "http://p0.meituan.net/waimaipoi/417a1a52adb4f3c96e9ec9f0fac752c234816.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "45分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥50",
+    "shippingFeeTip": "配送 ¥2",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.2km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满20减8;满128减20;满208减35;满398减45",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.1折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领5元券;领10元券;领50元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付88元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满128元赠送送罐装可乐一瓶330ML",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区龙腾阁新村四巷4号102",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "899547720230630",
+    "shopName": "华莱士炸鸡汉堡（金凤凰店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售2205",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b42ab1c2efb6ace01ce89cc29f163f9e54377.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "夜间配送 ¥7",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "4.2km",
+    "averagePriceTip": "人均 ¥23",
+    "discounts2": [
+      {
+        "info": "满28减5;满50减12;满100减38",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.81折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道凤凰社区凤凰商业中心1楼A2号铺",
+    "shipping_time": "00:00-03:00,09:05-23:59"
+  },
+  {
+    "mtWmPoiId": "939211743200918",
+    "shopName": "诚信潮汕砂锅粥大排档",
+    "wmPoiScore": 36,
+    "monthSalesTip": "月售398",
+    "picUrl": "http://p0.meituan.net/waimaipoi/4d708d738544c16960fae269f3ed6a52378604.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "982m",
+    "averagePriceTip": "人均 ¥31",
+    "discounts2": [
+      {
+        "info": "满40减4;满68减5;满88减7;满120减10",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区横巷十六巷2号102（丽宫都汇正对面）",
+    "shipping_time": "00:00-04:20,17:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1116233115289085",
+    "shopName": "重庆特色烧烤",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售284",
+    "picUrl": "http://p0.meituan.net/waimaipoi/5471d4e170b7e7355e67607290703be557381.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "43分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥30",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.6km",
+    "averagePriceTip": "人均 ¥36",
+    "address": "深圳市宝安区福永街道福围下十围商住街49号",
+    "shipping_time": "00:01-01:59,17:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1114485063605075",
+    "shopName": "曼玲粥店(福永店)",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售3423",
+    "picUrl": "http://p1.meituan.net/waimaipoi/5f71d43a1b3e068973ed682c479e012a57921.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.7km",
+    "averagePriceTip": "人均 ¥17",
+    "discounts2": [
+      {
+        "info": "满28减16;满48减21;满79减28;满100减32",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领3元券;领4元券;领10元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额100元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福永社区西环路68号101",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "934538818762508",
+    "shopName": "老爹麻辣烫",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售363",
+    "picUrl": "http://p1.meituan.net/waimaipoi/f4189e277f5db468ed6387368b3069ac28672.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "636m",
+    "averagePriceTip": "人均 ¥18",
+    "discounts2": [
+      {
+        "info": "满25减11;满40减15;满58减20;满88减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1.11折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道永丰二路家乐百货商铺3-5",
+    "shipping_time": "00:01-03:01,10:50-23:59"
+  },
+  {
+    "mtWmPoiId": "1041861461582444",
+    "shopName": "龙庭盱眙龙虾",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售161",
+    "picUrl": "http://p0.meituan.net/waimaipoi/28b3f37e12af8a6bb1d9778925a84ef6504808.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "35分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥70",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.4km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满10减8;满158减15;满228减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道桥头桥南路268号",
+    "shipping_time": "00:00-04:00,16:00-23:59"
+  },
+  {
+    "mtWmPoiId": "986662541855731",
+    "shopName": "御质贡茶店",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售1780",
+    "picUrl": "http://p0.meituan.net/waimaipoi/e6e9064a4720df0b2d25c5c4b030cc60258651.jpeg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.9km",
+    "averagePriceTip": "人均 ¥11",
+    "discounts2": [
+      {
+        "info": "满28减10;满50减16;满80减20",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.6折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付38元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道凤凰山社区凤凰山大道98号1楼F1-18",
+    "shipping_time": "09:30-23:59"
+  },
+  {
+    "mtWmPoiId": "935127229283297",
+    "shopName": "潮盛肠粉",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售1645",
+    "picUrl": "http://p0.meituan.net/waimaipoi/6bb6cf7d513b3a524a9a57a320345313112316.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "夜间配送 ¥7",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.4km",
+    "averagePriceTip": "人均 ¥25",
+    "discounts2": [
+      {
+        "info": "满50减3;满88减5",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道兴围社区第二工业区11栋福中路99号（即汉庭连锁酒店一楼）",
+    "shipping_time": "00:00-01:50,11:10-13:10,17:10-23:59"
+  },
+  {
+    "mtWmPoiId": "950511802135078",
+    "shopName": "德莱士炸鸡汉堡店",
+    "wmPoiScore": 40,
+    "monthSalesTip": "月售1522",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b14f1dd38590e682555bbfa5057bc12982896.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "34分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥0",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.8km",
+    "averagePriceTip": "人均 ¥17",
+    "discounts2": [
+      {
+        "info": "满20减18;满30减29;满50减32;满80减52;满110减65",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.08折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满88元赠送薯条1份",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道怀德社区翠岗工业区四区20栋首层10号铺",
+    "shipping_time": "00:00-01:00,10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "886538264296095",
+    "shopName": "化州爽爽甜品",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售1170",
+    "picUrl": "http://p0.meituan.net/waimaipoi/06bfe348dd1a736c9b2d7591c0726204161792.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.4km",
+    "averagePriceTip": "人均 ¥12",
+    "discounts2": [
+      {
+        "info": "满25减10;满39减12;满60减14;满80减16;满110减20",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品3.32折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福永社区一队十三巷13号207",
+    "shipping_time": "00:00-01:00,11:15-23:59"
+  },
+  {
+    "mtWmPoiId": "1076350048977410",
+    "shopName": "华莱士炸鸡汉堡（民联店）",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售2800",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b42ab1c2efb6ace01ce89cc29f163f9e54377.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "夜间配送 ¥7",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "4.2km",
+    "averagePriceTip": "人均 ¥27",
+    "discounts2": [
+      {
+        "info": "满28减5;满52减12;满108减38",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品2.49折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市福永盛世华联购物广场桥头店A2铺",
+    "shipping_time": "00:00-04:00,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "949992111120651",
+    "shopName": "撸串烧烤（桥头店）",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售739",
+    "picUrl": "http://p1.meituan.net/business/9ea12867ea796b310e9bc4b0f74c856b110863.png",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "42分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥25",
+    "shippingFeeTip": "夜间配送 ¥9",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "4.2km",
+    "averagePriceTip": "人均 ¥35",
+    "discounts2": [
+      {
+        "info": "满8减4;满68减10;满120减22;满160减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品8.8折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领6元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付10元返6元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道桥头社区永福路122号东海百货一楼",
+    "shipping_time": "00:00-02:55,16:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1069533935841336",
+    "shopName": "四川麻辣烫",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售1741",
+    "picUrl": "http://p0.meituan.net/waimaipoi/3a59e34e4644ef259a431dfc777a529886209.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.6km",
+    "averagePriceTip": "人均 ¥16",
+    "discounts2": [
+      {
+        "info": "满8减7;满26减14;满38减17;满58减20;满88减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.08折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领3元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付38元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福海街道桥头社区桥南新区133号恒新商场3号铺",
+    "shipping_time": "00:01-04:00,11:30-15:50,16:00-23:59"
+  },
+  {
+    "mtWmPoiId": "977003160452239",
+    "shopName": "老字号砂锅粥",
+    "wmPoiScore": 40,
+    "monthSalesTip": "月售2905",
+    "picUrl": "http://p1.meituan.net/waimaipoi/34c84b0bfd496fdde2469554300e0d8543008.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "夜间配送 ¥10",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "5.0km",
+    "averagePriceTip": "人均 ¥33",
+    "discounts2": [
+      {
+        "info": "满38减3;满68减6;满128减12;满168减15",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.44折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道塘尾社区十五区五巷5号101",
+    "shipping_time": "00:00-03:30,16:50-23:59"
+  },
+  {
+    "mtWmPoiId": "1003962670176151",
+    "shopName": "汉克斯炸鸡汉堡（凤凰古村店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售2268",
+    "picUrl": "http://p1.meituan.net/waimaipoi/450143059676e39f2b39d28bff08fb816144.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.9km",
+    "averagePriceTip": "人均 ¥25",
+    "discounts2": [
+      {
+        "info": "满20减9;满30减22;满60减26;满120减45",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.3折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道凤凰社区南区10铺一楼",
+    "shipping_time": "00:00-03:00,10:15-23:59"
+  },
+  {
+    "mtWmPoiId": "1117573145059925",
+    "shopName": "正宗重庆麻辣烫（白石厦店）",
+    "wmPoiScore": 39,
+    "monthSalesTip": "月售1988",
+    "picUrl": "http://p1.meituan.net/business/78eaca94f1bbf3303be8efe9110db63d70273.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "471m",
+    "averagePriceTip": "人均 ¥19",
+    "discounts2": [
+      {
+        "info": "满26减11;满57减21;满78减28",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满35元赠送王老吉一瓶",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区横巷一巷1-2号",
+    "shipping_time": "00:00-04:30,10:50-23:59"
+  },
+  {
+    "mtWmPoiId": "1049433488943525",
+    "shopName": "头头食道鸭脑壳（福永店）",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售1120",
+    "picUrl": "http://p1.meituan.net/waimaipoi/66f2c8647ab088e9c8a4ad665c8247f4178176.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.8km",
+    "averagePriceTip": "人均 ¥50",
+    "discounts2": [
+      {
+        "info": "满30减1;满50减3;满80减5;满100减9;满120减11",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品9.57折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道永福路83-2号3-5-6号铺",
+    "shipping_time": "00:00-02:00,10:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1012058683507252",
+    "shopName": "二哥的蒸鸡（滋补蒸鸡福永店）",
+    "wmPoiScore": 50,
+    "monthSalesTip": "月售118",
+    "picUrl": "http://p0.meituan.net/waimaipoi/cdade7a67afafeb9b3d5f601e8f9c04f298820.jpg",
+    "poiTypeIcon": "http://p0.meituan.net/aichequan/eb83cb963e67bc0ea4db4d7aef69d62f2578.png",
+    "deliveryTimeTip": "42分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "974m",
+    "averagePriceTip": "人均 ¥51",
+    "discounts2": [
+      {
+        "info": "满30减20;满58减30;满100减40",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.3折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券;领4元券;领6元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付50元返5元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满53元赠送300ml雪碧",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区石龙头旧村十三巷9号101",
+    "shipping_time": "00:00-02:00,11:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1083780342403423",
+    "shopName": "潮汕原味汤粉(福永店)",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售1961",
+    "picUrl": "http://p0.meituan.net/business/5b746c19891b2f9180a50b2cfbe98d83160544.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "137m",
+    "averagePriceTip": "人均 ¥16",
+    "discounts2": [
+      {
+        "info": "满19减3;满33减6;满53减10;满63减12;满95减20",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品3.7折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券;领3元券;领5元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦裕华园东17-1",
+    "shipping_time": "00:00-01:15,06:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1098847087632202",
+    "shopName": "华莱士炸鸡汉堡（德丰店）",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售802",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b42ab1c2efb6ace01ce89cc29f163f9e54377.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥5",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "1.9km",
+    "averagePriceTip": "人均 ¥26",
+    "discounts2": [
+      {
+        "info": "满28减5;满52减12;满108减38",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品2.49折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道聚福社区德丰路43号德丰路43－2号",
+    "shipping_time": "00:00-05:00,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "865016183153319",
+    "shopName": "666烧烤音乐餐吧",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售157",
+    "picUrl": "http://p1.meituan.net/waimaipoi/7a9371b5ca9b210dd4d79da73494112540960.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.3km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满38减6;满58减8;满118减15",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品1折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福永社区福海科技工业园第3栋104",
+    "shipping_time": "00:00-02:30,18:30-23:59"
+  },
+  {
+    "mtWmPoiId": "972227156775662",
+    "shopName": "堕落小龙虾（蟹·海鲜·福海店）",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售837",
+    "picUrl": "http://p1.meituan.net/waimaipoi/dfe52caa8003bf5268b9c5aa81775b6b31969.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "45分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥69",
+    "shippingFeeTip": "配送 ¥7",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.5km",
+    "averagePriceTip": "人均 ¥78",
+    "discounts2": [
+      {
+        "info": "满99减5;满178减10;满249减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品6.52折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领6元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返10元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额0元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福海街道桥头社区桥南新区94栋桥南新区94-2号",
+    "shipping_time": "00:00-02:10,17:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1011972784148566",
+    "shopName": "爽滑饺子王咸骨煲仔粥（龙翔店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售613",
+    "picUrl": "http://p1.meituan.net/waimaipoi/ce84a4ede8a4377eaa5b4a64a3004b10148058.png",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "849m",
+    "averagePriceTip": "人均 ¥24",
+    "discounts2": [
+      {
+        "info": "满20减18;满50减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品2.81折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付40元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区龙翔北路6号102",
+    "shipping_time": "00:00-03:00,10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "992808640059361",
+    "shopName": "老地方云吞王",
+    "wmPoiScore": 47,
+    "monthSalesTip": "月售1335",
+    "picUrl": "http://p1.meituan.net/business/c3656fb1858b5c7c808d4c9c8521fe9f166386.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥0",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.3km",
+    "averagePriceTip": "人均 ¥21",
+    "discounts2": [
+      {
+        "info": "满25减6;满40减9",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品5.84折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福永社区裕华路1号104",
+    "shipping_time": "00:00-01:00,07:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1035363176025865",
+    "shopName": "波客派炸鸡汉堡(福永下十围店)",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售1529",
+    "picUrl": "http://p0.meituan.net/waimaipoi/61e592414eb04a7b9fddd5a2c0df320e23123.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥2.88",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.5km",
+    "averagePriceTip": "人均 ¥21",
+    "discounts2": [
+      {
+        "info": "满20减6;满29减9;满49减15;满79减20",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.14折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "本店支持开发票，开票金额50元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "宝安区福永下十围市场惠尔乐超市对面冠峰大夏一楼",
+    "shipping_time": "00:00-02:50,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1083617133594960",
+    "shopName": "凤凰烧烤城（凤凰店）",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售1144",
+    "picUrl": "http://p1.meituan.net/business/33547c388b0588922adb3e1f9fb0d16a717097.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "38分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥58",
+    "shippingFeeTip": "配送 ¥12",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.6km",
+    "averagePriceTip": "人均 ¥32",
+    "discounts2": [
+      {
+        "info": "满48减12;满88减15;满158减20;满200减25",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品3折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付68元返5元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满45元赠送盒装饮料",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区凤凰大道250号",
+    "shipping_time": "00:00-02:00,18:30-23:59"
+  },
+  {
+    "mtWmPoiId": "1001411459609458",
+    "shopName": "蚝门虾客（小龙虾、生蚝店）",
+    "wmPoiScore": 50,
+    "monthSalesTip": "月售16",
+    "picUrl": "http://p0.meituan.net/waimaipoi/64dcd89f1f1181264fb69004a9cde0e938912.jpg",
+    "poiTypeIcon": "http://p0.meituan.net/aichequan/eb83cb963e67bc0ea4db4d7aef69d62f2578.png",
+    "deliveryTimeTip": "44分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥88",
+    "shippingFeeTip": "配送 ¥3",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "3.5km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满58减25;满158减55;满288减78",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.02折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领5元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付128元返6元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福海街道桥头社区桥南新区109栋109-3号",
+    "shipping_time": "00:00-01:30,11:00-23:59"
+  },
+  {
+    "mtWmPoiId": "888157466928170",
+    "shopName": "西尊比萨（福永店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售530",
+    "picUrl": "http://p1.meituan.net/waimaipoi/58f52531d27e09305f6a74dc9dbd528250314.jpg",
+    "poiTypeIcon": "http://p1.meituan.net/aichequan/a88918ba8699e15a5d16d5d7e09ad0022192.png",
+    "deliveryTimeTip": "37分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥30",
+    "shippingFeeTip": "配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "802m",
+    "averagePriceTip": "人均 ¥25",
+    "discounts2": [
+      {
+        "info": "满29减10;满49减25;满70减35;满100减46",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品2.4折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领3元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付32元返4元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道白石厦社区石龙头旧村龙翔北路5号102",
+    "shipping_time": "00:00-04:00,09:45-23:59"
+  },
+  {
+    "mtWmPoiId": "893728039549913",
+    "shopName": "牛蛙恋上虾（福永店）",
+    "wmPoiScore": 50,
+    "monthSalesTip": "月售33",
+    "picUrl": "http://p0.meituan.net/waimaipoi/27743e2979e83efaefddc9c9ed82c8ec30720.jpg",
+    "poiTypeIcon": "http://p0.meituan.net/aichequan/eb83cb963e67bc0ea4db4d7aef69d62f2578.png",
+    "deliveryTimeTip": "44分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥50",
+    "shippingFeeTip": "配送 ¥2",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "2.3km",
+    "averagePriceTip": "",
+    "discounts2": [
+      {
+        "info": "满20减8;满128减15;满198减30;满398减50",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品0.1折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领5元券;领10元券;领50元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "满168元赠送送罐装可乐一瓶",
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福永街道福永社区一队四巷17号一队四巷7-3",
+    "shipping_time": "00:00-23:59"
+  },
+  {
+    "mtWmPoiId": "875938284965468",
+    "shopName": "重庆麻辣烫（福永店）",
+    "wmPoiScore": 41,
+    "monthSalesTip": "月售739",
+    "picUrl": "http://p1.meituan.net/waimaipoi/672e2216acba8adcb85b97042d57c27743008.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥20",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "252m",
+    "averagePriceTip": "人均 ¥20",
+    "discounts2": [
+      {
+        "info": "满26减11;满56减20;满78减26",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "白石厦大道白石厦路106号",
+    "shipping_time": "00:00-02:20,11:00-23:59"
+  },
+  {
+    "mtWmPoiId": "996618276055271",
+    "shopName": "咸骨粥饺子王(福永店)",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售4421",
+    "picUrl": "http://p1.meituan.net/wmproduct/17a3a088956b056492feab2859682977426270.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "44分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "5.4km",
+    "averagePriceTip": "人均 ¥17",
+    "discounts2": [
+      {
+        "info": "满25减24;满48减45;满68减65;满88减85;满128减125",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4.43折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "深圳市宝安区福海街道和平社区永和路41-10",
+    "shipping_time": "00:00-01:00,08:00-23:59"
+  },
+  {
+    "mtWmPoiId": "917517863387547",
+    "shopName": "老上海•粥铺（福永店）",
+    "wmPoiScore": 46,
+    "monthSalesTip": "月售1813",
+    "picUrl": "http://p0.meituan.net/waimaipoi/4952090bd5a6c8510975755174df581a127574.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥10",
+    "shippingFeeTip": "配送 ¥4",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "977m",
+    "averagePriceTip": "人均 ¥15",
+    "discounts2": [
+      {
+        "info": "满28减17;满40减20;满58减26;满88减40;满108减52",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "折扣商品4.5折起",
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "领2元券;领5元券;领10元券",
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+        "promotionType": 2,
+        "activityId": 0
+      },
+      {
+        "info": "实际支付1元返3元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福永街道白石厦社区龙头旧村十二巷15号102",
+    "shipping_time": "06:45-23:59"
+  },
+  {
+    "mtWmPoiId": "1123818027517156",
+    "shopName": "川号冒菜·砂锅串串香",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售925",
+    "picUrl": "http://p1.meituan.net/waimaipoi/3e98cd7f23f076aea82f9b41011ef2ab224622.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥15",
+    "shippingFeeTip": "配送 ¥6",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "4.2km",
+    "averagePriceTip": "人均 ¥21",
+    "discounts2": [
+      {
+        "info": "满28减12;满48减20;满88减30",
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+        "promotionType": 2,
+        "activityId": 0
+      }
+    ],
+    "address": "福海街道稔田社区旧区12号",
+    "shipping_time": "00:00-02:45,10:50-23:59"
+  }
+]

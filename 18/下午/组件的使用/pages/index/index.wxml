@@ -1,0 +1,18 @@
+<wrap-com>
+
+  <box-com/>
+
+  <box2-com/>
+
+</wrap-com>
+
+
+<view class='v'>hello</view>
+
+<view class='wrap'>
+  <!-- <my-com/> -->
+</view>
+
+<my-com title="{{val}}"></my-com>
+
+<father-com></father-com>

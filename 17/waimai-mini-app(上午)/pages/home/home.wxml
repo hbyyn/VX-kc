@@ -1,0 +1,11 @@
+<!-- 页面的结构 -->
+<!--pages/home/home.wxml-->
+
+<view>
+  <view class='line'></view>
+  <view>
+    <view class='box'></view>
+    <view class='box'></view>
+  </view>
+  <view class='line'></view>
+</view>

@@ -1,0 +1,5795 @@
+{
+  "outOfRange": 0,
+  "mtWmPoiId": "948025016119711",
+  "dpShopId": 0,
+  "shopStatus": 0,
+  "shopPage": false,
+  "shopInfo": {
+    "shopName": "客沁园（砂锅粥）",
+    "shopPic": "http://p1.meituan.net/waimaipoi/f58e19117d5abc3f0da7def175bd922613392.jpg",
+    "deliveryFee": 5.0,
+    "deliveryType": 0,
+    "deliveryTime": 40,
+    "deliveryMsg": "由美团快送提供配送服务",
+    "minFee": 20.0,
+    "activityList": [
+      {
+        "actDesc": "满25减3;满45减8;满75减12;满110减18",
+        "actType": 0,
+        "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png"
+      },
+      {
+        "actDesc": "折扣商品5.5折起",
+        "actType": 0,
+        "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+      },
+      {
+        "actDesc": "领3元券;领5元券;领8元券",
+        "actType": 0,
+        "iconUrl": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png"
+      },
+      {
+        "actDesc": "实际支付30元返2元商家代金券",
+        "actType": 0,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png"
+      },
+      {
+        "actDesc": "满98元赠送可口可乐一支",
+        "actType": 0,
+        "iconUrl": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png"
+      }
+    ],
+    "onlinePay": 1,
+    "bulletin": "我们熬的是粥，暖的是心；各位佛系食客们 欢迎入店选购 ！",
+    "discountRestrict": -1,
+    "poiCouponList": [
+      {
+        "couponId": 100056400,
+        "couponPoolId": 0,
+        "activityId": 100044131,
+        "couponValue": 3.0,
+        "couponConditionText": "满55可用",
+        "couponValidTimeText": "有效期至2019.04.24",
+        "couponStatus": 0,
+        "couponButtonText": "领取",
+        "limitNewUser": false
+      },
+      {
+        "couponId": 100056401,
+        "couponPoolId": 0,
+        "activityId": 100044131,
+        "couponValue": 5.0,
+        "couponConditionText": "满80可用",
+        "couponValidTimeText": "有效期至2019.04.24",
+        "couponStatus": 0,
+        "couponButtonText": "领取",
+        "limitNewUser": false
+      },
+      {
+        "couponId": 100056402,
+        "couponPoolId": 0,
+        "activityId": 100044131,
+        "couponValue": 8.0,
+        "couponConditionText": "满110可用",
+        "couponValidTimeText": "有效期至2019.04.24",
+        "couponStatus": 0,
+        "couponButtonText": "领取",
+        "limitNewUser": false
+      }
+    ],
+    "distance": "2.8km",
+    "bizCode": 0,
+    "shipping_time": "00:00-03:00,17:30-23:59"
+  },
+  "pageCategoryList": [],
+  "categoryList": [
+    {
+      "tag": "100",
+      "activityTag": "",
+      "iconUrl": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+      "categoryName": "热销",
+      "categoryType": 1,
+      "spuList": [
+        {
+          "spuName": "鲜虾粥",
+          "unit": "份",
+          "spuId": 787090503,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/3872d40d00339363eae0eb1eeaef452a472297.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/3872d40d00339363eae0eb1eeaef452a472297.jpg",
+          "saleVolume": 267,
+          "originPrice": 28.0,
+          "currentPrice": 28.0,
+          "spuDesc": "食材：大米、鲜虾。虾营养价值极高，含有丰富的蛋白质和矿物质",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853162589,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 28.0,
+              "currentPrice": 28.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875187397,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 84.0,
+              "currentPrice": 84.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875191054,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 56.0,
+              "currentPrice": 56.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892652307,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 112.0,
+              "currentPrice": 112.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1293752752,
+              "spec": "六人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 168.0,
+              "currentPrice": 168.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1293857202,
+              "spec": "五人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 140.0,
+              "currentPrice": 140.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "炒米粉",
+          "unit": "",
+          "spuId": 792404106,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/6af635c071d8fdb4271eb0967e0f16ec164070.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/6af635c071d8fdb4271eb0967e0f16ec164070.jpg",
+          "saleVolume": 151,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859015168,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926853, "attrValue": "不辣" },
+                { "attrId": 496926854, "attrValue": "微辣" },
+                { "attrId": 496926855, "attrValue": "中辣" },
+                { "attrId": 496926856, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "紫苏炒田螺",
+          "unit": "份",
+          "spuId": 802441443,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/4cc760f972c19388327ec663e373082b208535.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/4cc760f972c19388327ec663e373082b208535.jpg",
+          "saleVolume": 150,
+          "originPrice": 15.0,
+          "currentPrice": 15.0,
+          "spuDesc": "",
+          "praiseNum": 7,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870037266,
+              "spec": "(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "口味",
+              "spuAttrValueList": [
+                { "attrId": 508093152, "attrValue": "微辣" },
+                { "attrId": 508093153, "attrValue": "中辣" },
+                { "attrId": 508093154, "attrValue": "特辣" },
+                { "attrId": 508093155, "attrValue": "不辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "高邮咸鸭蛋（单点不送）",
+          "unit": "",
+          "spuId": 1053409550,
+          "tag": "63750159",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/7b7593f17a999a2e5b14419306d0c320111833.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/7b7593f17a999a2e5b14419306d0c320111833.jpg",
+          "saleVolume": 145,
+          "originPrice": 3.28,
+          "currentPrice": 3.28,
+          "spuDesc": "翻砂起油，咸淡适中~",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1160206831,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 3.28,
+              "currentPrice": 3.28,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "皮蛋瘦肉粥",
+          "unit": "份",
+          "spuId": 1053285767,
+          "tag": "63749870",
+          "activityTag": "discount",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/fe672d0602fd4a036db1c14bfd5a3f89342016.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/fe672d0602fd4a036db1c14bfd5a3f89342016.jpg",
+          "saleVolume": 122,
+          "originPrice": 20.0,
+          "currentPrice": 15.8,
+          "spuDesc": "食材：大米、皮蛋、瘦肉、青菜。皮蛋瘦肉粥被称为下火粥。",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 1,
+          "skuList": [
+            {
+              "skuId": 1160171104,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": -1,
+              "minPurchaseNum": -1,
+              "restrict": 1,
+              "originPrice": 20.0,
+              "currentPrice": 15.8,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "7.9折 限1份",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "7.9折 限1份",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒番薯叶",
+          "unit": "",
+          "spuId": 792393155,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/5caf0b2ff3b70633c0e40d50116c39ed515223.png",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/5caf0b2ff3b70633c0e40d50116c39ed515223.png",
+          "saleVolume": 87,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858999274,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "现熬白粥十咸鸭蛋",
+          "unit": "份",
+          "spuId": 1175549016,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/831c3616fee98c342e6fd26864355324108436.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/831c3616fee98c342e6fd26864355324108436.jpg",
+          "saleVolume": 77,
+          "originPrice": 8.88,
+          "currentPrice": 8.88,
+          "spuDesc": "食材：大米，鸭蛋",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1304807606,
+              "spec": "(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 8.88,
+              "currentPrice": 8.88,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "酸辣土豆丝",
+          "unit": "",
+          "spuId": 792352692,
+          "tag": "63750057",
+          "activityTag": "discount",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/7cfe194ef9696f395e4df7c153fa047c205617.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/7cfe194ef9696f395e4df7c153fa047c205617.jpg",
+          "saleVolume": 74,
+          "originPrice": 18.0,
+          "currentPrice": 9.9,
+          "spuDesc": "",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 1,
+          "skuList": [
+            {
+              "skuId": 858956297,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": -1,
+              "minPurchaseNum": -1,
+              "restrict": 1,
+              "originPrice": 18.0,
+              "currentPrice": 9.9,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "5.5折 限1份",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927295, "attrValue": "微辣" },
+                { "attrId": 496927296, "attrValue": "中辣" },
+                { "attrId": 496927297, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "5.5折 限1份",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "卤鸭脚",
+          "unit": "",
+          "spuId": 787130829,
+          "tag": "63749957",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/352bd77a8789742fa4ce906aa405fed3165872.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/352bd77a8789742fa4ce906aa405fed3165872.jpg",
+          "saleVolume": 71,
+          "originPrice": 3.0,
+          "currentPrice": 3.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853206566,
+              "spec": "一个",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 3.0,
+              "currentPrice": 3.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014704253,
+              "spec": "一份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "干贝鲜虾粥",
+          "unit": "份",
+          "spuId": 801726960,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/e771e531b9f2f2f3a2c58341290e9df7136692.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/e771e531b9f2f2f3a2c58341290e9df7136692.jpg",
+          "saleVolume": 64,
+          "originPrice": 29.98,
+          "currentPrice": 29.98,
+          "spuDesc": "食材：干贝、基围虾、大米",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869188505,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 29.98,
+              "currentPrice": 29.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875182881,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 90.0,
+              "currentPrice": 90.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892617236,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 60.0,
+              "currentPrice": 60.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892625700,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 120.0,
+              "currentPrice": 120.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "act17",
+      "activityTag": "discount",
+      "iconUrl": "http://p0.meituan.net/aichequan/45662b4d1968fd75bff38de23f6d62641421.png",
+      "categoryName": "折扣",
+      "categoryType": 2,
+      "spuList": [
+        {
+          "spuName": "酸辣土豆丝",
+          "unit": "",
+          "spuId": 792352692,
+          "tag": "63750057",
+          "activityTag": "discount",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/7cfe194ef9696f395e4df7c153fa047c205617.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/7cfe194ef9696f395e4df7c153fa047c205617.jpg",
+          "saleVolume": 74,
+          "originPrice": 18.0,
+          "currentPrice": 9.9,
+          "spuDesc": "",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 1,
+          "skuList": [
+            {
+              "skuId": 858956297,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": -1,
+              "minPurchaseNum": -1,
+              "restrict": 1,
+              "originPrice": 18.0,
+              "currentPrice": 9.9,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "5.5折 限1份",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927295, "attrValue": "微辣" },
+                { "attrId": 496927296, "attrValue": "中辣" },
+                { "attrId": 496927297, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "5.5折 限1份",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "皮蛋瘦肉粥",
+          "unit": "份",
+          "spuId": 1053285767,
+          "tag": "63749870",
+          "activityTag": "discount",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/fe672d0602fd4a036db1c14bfd5a3f89342016.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/fe672d0602fd4a036db1c14bfd5a3f89342016.jpg",
+          "saleVolume": 122,
+          "originPrice": 20.0,
+          "currentPrice": 15.8,
+          "spuDesc": "食材：大米、皮蛋、瘦肉、青菜。皮蛋瘦肉粥被称为下火粥。",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 1,
+          "skuList": [
+            {
+              "skuId": 1160171104,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": -1,
+              "minPurchaseNum": -1,
+              "restrict": 1,
+              "originPrice": 20.0,
+              "currentPrice": 15.8,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "7.9折 限1份",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "7.9折 限1份",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "63749870",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "招牌砂锅粥",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "宝宝们，有任何问请联系 13927436482",
+          "unit": "",
+          "spuId": 1473554615,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproduct/723ba2e710e8c01bad876b83133e584a228101.jpg",
+          "bigImageUrl": "http://p0.meituan.net/wmproduct/723ba2e710e8c01bad876b83133e584a228101.jpg",
+          "saleVolume": 0,
+          "originPrice": 0.0,
+          "currentPrice": 0.0,
+          "spuDesc": "本店小本经营，若您用餐有任何不满意请联系13927436482，我们一定给您满意答复；还望您手下留情不要留下中差评！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1681183900,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": 1000,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 0.0,
+              "currentPrice": 0.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "鲜虾粥",
+          "unit": "份",
+          "spuId": 787090503,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/3872d40d00339363eae0eb1eeaef452a472297.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/3872d40d00339363eae0eb1eeaef452a472297.jpg",
+          "saleVolume": 267,
+          "originPrice": 28.0,
+          "currentPrice": 28.0,
+          "spuDesc": "食材：大米、鲜虾。虾营养价值极高，含有丰富的蛋白质和矿物质",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853162589,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 28.0,
+              "currentPrice": 28.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875187397,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 84.0,
+              "currentPrice": 84.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875191054,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 56.0,
+              "currentPrice": 56.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892652307,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 112.0,
+              "currentPrice": 112.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1293752752,
+              "spec": "六人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 168.0,
+              "currentPrice": 168.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1293857202,
+              "spec": "五人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 140.0,
+              "currentPrice": 140.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "皮蛋瘦肉粥",
+          "unit": "份",
+          "spuId": 1053285767,
+          "tag": "63749870",
+          "activityTag": "discount",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/fe672d0602fd4a036db1c14bfd5a3f89342016.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/fe672d0602fd4a036db1c14bfd5a3f89342016.jpg",
+          "saleVolume": 122,
+          "originPrice": 20.0,
+          "currentPrice": 15.8,
+          "spuDesc": "食材：大米、皮蛋、瘦肉、青菜。皮蛋瘦肉粥被称为下火粥。",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 1,
+          "skuList": [
+            {
+              "skuId": 1160171104,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": -1,
+              "minPurchaseNum": -1,
+              "restrict": 1,
+              "originPrice": 20.0,
+              "currentPrice": 15.8,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "7.9折 限1份",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "7.9折 限1份",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "现熬白粥十咸鸭蛋",
+          "unit": "份",
+          "spuId": 1175549016,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/831c3616fee98c342e6fd26864355324108436.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/831c3616fee98c342e6fd26864355324108436.jpg",
+          "saleVolume": 77,
+          "originPrice": 8.88,
+          "currentPrice": 8.88,
+          "spuDesc": "食材：大米，鸭蛋",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1304807606,
+              "spec": "(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 8.88,
+              "currentPrice": 8.88,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "咸骨粥",
+          "unit": "份",
+          "spuId": 787111786,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/61384ac046167afceb5572c74b22cdba122332.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/61384ac046167afceb5572c74b22cdba122332.jpg",
+          "saleVolume": 47,
+          "originPrice": 24.98,
+          "currentPrice": 24.98,
+          "spuDesc": "食材：米、咸骨。咸骨粥是广东的一道名粥，采用猪骨慢火熬制，味道鲜美。",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853188246,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 24.98,
+              "currentPrice": 24.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875178414,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 75.0,
+              "currentPrice": 75.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875185243,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 50.0,
+              "currentPrice": 50.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892625760,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 100.0,
+              "currentPrice": 100.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "虾蟹粥",
+          "unit": "份",
+          "spuId": 787111688,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/d9c59beb7ac9fa54da0a8055350ac022125723.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/d9c59beb7ac9fa54da0a8055350ac022125723.jpg",
+          "saleVolume": 41,
+          "originPrice": 60.0,
+          "currentPrice": 60.0,
+          "spuDesc": "食材：大米，基围虾，花蟹",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 875180298,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 60.0,
+              "currentPrice": 60.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875183213,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 90.0,
+              "currentPrice": 90.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892644914,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 120.0,
+              "currentPrice": 120.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "干贝鲜虾粥",
+          "unit": "份",
+          "spuId": 801726960,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/e771e531b9f2f2f3a2c58341290e9df7136692.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/e771e531b9f2f2f3a2c58341290e9df7136692.jpg",
+          "saleVolume": 64,
+          "originPrice": 29.98,
+          "currentPrice": 29.98,
+          "spuDesc": "食材：干贝、基围虾、大米",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869188505,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 29.98,
+              "currentPrice": 29.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875182881,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 90.0,
+              "currentPrice": 90.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892617236,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 60.0,
+              "currentPrice": 60.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892625700,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 120.0,
+              "currentPrice": 120.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "土鸡粥",
+          "unit": "份",
+          "spuId": 787113340,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/138610b4fa7699ed7bb834f4680b7b23132662.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/138610b4fa7699ed7bb834f4680b7b23132662.jpg",
+          "saleVolume": 27,
+          "originPrice": 24.98,
+          "currentPrice": 24.98,
+          "spuDesc": "食材：鸡肉、大米",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853186643,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 24.98,
+              "currentPrice": 24.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875185376,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 50.0,
+              "currentPrice": 50.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875185377,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 75.0,
+              "currentPrice": 75.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892617354,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 100.0,
+              "currentPrice": 100.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "排骨粥",
+          "unit": "份",
+          "spuId": 787109908,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/64f75eae7920aecfe174dc0eaf2fb837553872.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/64f75eae7920aecfe174dc0eaf2fb837553872.jpg",
+          "saleVolume": 42,
+          "originPrice": 24.98,
+          "currentPrice": 24.98,
+          "spuDesc": "食材：新鲜排骨，大米",
+          "praiseNum": 3,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853189063,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 24.98,
+              "currentPrice": 24.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875178442,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 50.0,
+              "currentPrice": 50.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875178443,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 75.0,
+              "currentPrice": 75.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892652380,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 100.0,
+              "currentPrice": 100.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "生滚牛肉粥",
+          "unit": "套餐",
+          "spuId": 1175549189,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/116e893b9b78567b016d90f5b33ee35d152715.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/116e893b9b78567b016d90f5b33ee35d152715.jpg",
+          "saleVolume": 25,
+          "originPrice": 24.98,
+          "currentPrice": 24.98,
+          "spuDesc": "食材：新鲜牛肉，大米",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1304598148,
+              "spec": "一人份(套餐)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 24.98,
+              "currentPrice": 24.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1304665960,
+              "spec": "三人份(套餐)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 75.0,
+              "currentPrice": 75.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1304737241,
+              "spec": "两人份(套餐)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 50.0,
+              "currentPrice": 50.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1304737242,
+              "spec": "四人份(套餐)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 100.0,
+              "currentPrice": 100.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "干贝瘦肉粥",
+          "unit": "份",
+          "spuId": 787113413,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/de72f263dc08e2cf3427a87efaf4c0be256411.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/de72f263dc08e2cf3427a87efaf4c0be256411.jpg",
+          "saleVolume": 18,
+          "originPrice": 24.98,
+          "currentPrice": 24.98,
+          "spuDesc": "食材：干贝，瘦肉，大米",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853189123,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 24.98,
+              "currentPrice": 24.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875178193,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 50.0,
+              "currentPrice": 50.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875178194,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 75.0,
+              "currentPrice": 75.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892116522,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 100.0,
+              "currentPrice": 100.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "虾十黄蟮粥",
+          "unit": "份",
+          "spuId": 933328073,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/effd66f76e8215b86cdf3e7ad68d1a24248504.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/effd66f76e8215b86cdf3e7ad68d1a24248504.jpg",
+          "saleVolume": 24,
+          "originPrice": 90.0,
+          "currentPrice": 29.98,
+          "spuDesc": "食材：基围虾、黄蟮、大米",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1014705244,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 90.0,
+              "currentPrice": 90.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014724965,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 60.0,
+              "currentPrice": 60.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014724966,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 120.0,
+              "currentPrice": 120.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014733644,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 29.98,
+              "currentPrice": 29.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "黄蟮粥",
+          "unit": "份",
+          "spuId": 787111708,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/2e119f3aa2b7e1337aba9d47b73a5eed305417.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/2e119f3aa2b7e1337aba9d47b73a5eed305417.jpg",
+          "saleVolume": 17,
+          "originPrice": 24.98,
+          "currentPrice": 24.98,
+          "spuDesc": "食材：黄蟮，大米",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853182993,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 24.98,
+              "currentPrice": 24.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875221263,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 50.0,
+              "currentPrice": 50.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875221264,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 75.0,
+              "currentPrice": 75.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892645071,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 100.0,
+              "currentPrice": 100.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "虾十田鸡粥",
+          "unit": "份",
+          "spuId": 1017075293,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/47b46cb24c1754c56240cd0eccd61e24139147.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/47b46cb24c1754c56240cd0eccd61e24139147.jpg",
+          "saleVolume": 14,
+          "originPrice": 29.98,
+          "currentPrice": 29.98,
+          "spuDesc": "食材：基围虾、田鸡、大米",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1118465801,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 29.98,
+              "currentPrice": 29.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1118594466,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 60.0,
+              "currentPrice": 60.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1118726759,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 90.0,
+              "currentPrice": 90.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1118903733,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 120.0,
+              "currentPrice": 120.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "乳鸽粥",
+          "unit": "份",
+          "spuId": 787111802,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/7d4aba70afc9e27493957389aa8aee4d114710.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/7d4aba70afc9e27493957389aa8aee4d114710.jpg",
+          "saleVolume": 10,
+          "originPrice": 28.0,
+          "currentPrice": 28.0,
+          "spuDesc": "食材：新鲜鸽子、大米",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853186702,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 28.0,
+              "currentPrice": 28.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875195349,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 84.0,
+              "currentPrice": 84.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892644950,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 112.0,
+              "currentPrice": 112.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1627385096,
+              "spec": "二人份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 56.0,
+              "currentPrice": 56.0,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "虾十土鸡粥",
+          "unit": "份",
+          "spuId": 1421357390,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfu/43cc8cd60f4d9c4999e67dffcce8bd9a284721.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfu/43cc8cd60f4d9c4999e67dffcce8bd9a284721.jpg",
+          "saleVolume": 9,
+          "originPrice": 29.98,
+          "currentPrice": 29.98,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1621150088,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 29.98,
+              "currentPrice": 29.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1621150089,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 60.0,
+              "currentPrice": 60.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1621150090,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 90.0,
+              "currentPrice": 90.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1621150091,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 120.0,
+              "currentPrice": 120.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "虾十排骨",
+          "unit": "份",
+          "spuId": 1408625668,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/726a4bb1aeac05ad599289e6ba34c8c3186886.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/726a4bb1aeac05ad599289e6ba34c8c3186886.jpg",
+          "saleVolume": 13,
+          "originPrice": 60.0,
+          "currentPrice": 29.98,
+          "spuDesc": "",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1587758277,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 60.0,
+              "currentPrice": 60.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1587758278,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 90.0,
+              "currentPrice": 90.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1587758279,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 120.0,
+              "currentPrice": 120.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1588035318,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 29.98,
+              "currentPrice": 29.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "田鸡粥",
+          "unit": "份",
+          "spuId": 787111734,
+          "tag": "63749870",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/e3acec086bbaa7d7f11a27c76b432241145265.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/e3acec086bbaa7d7f11a27c76b432241145265.jpg",
+          "saleVolume": 4,
+          "originPrice": 24.98,
+          "currentPrice": 24.98,
+          "spuDesc": "食材：田鸡，大米",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853189033,
+              "spec": "一人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 24.98,
+              "currentPrice": 24.98,
+              "boxFee": 2.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875196779,
+              "spec": "三人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 75.0,
+              "currentPrice": 75.0,
+              "boxFee": 6.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 875197869,
+              "spec": "二人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 50.0,
+              "currentPrice": 50.0,
+              "boxFee": 4.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 892652447,
+              "spec": "四人份(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 100.0,
+              "currentPrice": 100.0,
+              "boxFee": 8.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "63749957",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "潮汕卤水",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "卤鸭脚",
+          "unit": "",
+          "spuId": 787130829,
+          "tag": "63749957",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/352bd77a8789742fa4ce906aa405fed3165872.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/352bd77a8789742fa4ce906aa405fed3165872.jpg",
+          "saleVolume": 71,
+          "originPrice": 3.0,
+          "currentPrice": 3.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853206566,
+              "spec": "一个",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 3.0,
+              "currentPrice": 3.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014704253,
+              "spec": "一份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "卤鸭翅",
+          "unit": "",
+          "spuId": 787127465,
+          "tag": "63749957",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/442c6ae1eef78183651fd92ccce356a6127318.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/442c6ae1eef78183651fd92ccce356a6127318.jpg",
+          "saleVolume": 38,
+          "originPrice": 6.0,
+          "currentPrice": 6.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853200914,
+              "spec": "一个",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 6.0,
+              "currentPrice": 6.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014732797,
+              "spec": "一份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "卤鸭肾",
+          "unit": "",
+          "spuId": 787120906,
+          "tag": "63749957",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/50f3f0798cc0dafca36cbd1404e43aad127726.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/50f3f0798cc0dafca36cbd1404e43aad127726.jpg",
+          "saleVolume": 33,
+          "originPrice": 3.0,
+          "currentPrice": 3.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853199558,
+              "spec": "一个",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 3.0,
+              "currentPrice": 3.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014732710,
+              "spec": "一份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "卤鸭头",
+          "unit": "",
+          "spuId": 787125931,
+          "tag": "63749957",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/83a0de31f42ee556533ee02e7d7460d1171366.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/83a0de31f42ee556533ee02e7d7460d1171366.jpg",
+          "saleVolume": 23,
+          "originPrice": 6.0,
+          "currentPrice": 6.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853203585,
+              "spec": "一个",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 6.0,
+              "currentPrice": 6.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014253105,
+              "spec": "一份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "卤水拼盘",
+          "unit": "",
+          "spuId": 787126519,
+          "tag": "63749957",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/949f009cece1926125d90585a4cdc5e5181239.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/949f009cece1926125d90585a4cdc5e5181239.jpg",
+          "saleVolume": 12,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853204321,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "63749988",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "潮粤风味",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "白灼基围虾",
+          "unit": "",
+          "spuId": 792344345,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/6ebab83d03f07f95a6a50ce6814b4ca8151181.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/6ebab83d03f07f95a6a50ce6814b4ca8151181.jpg",
+          "saleVolume": 25,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858941301,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": 9963,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926836, "attrValue": "微辣" },
+                { "attrId": 496926837, "attrValue": "中辣" },
+                { "attrId": 496926838, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "潮州果肉",
+          "unit": "",
+          "spuId": 792398278,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/adbbcde6a300cd94e6489d9b982584d977237.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/adbbcde6a300cd94e6489d9b982584d977237.jpg",
+          "saleVolume": 15,
+          "originPrice": 25.0,
+          "currentPrice": 25.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859006255,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": 9913,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 25.0,
+              "currentPrice": 25.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "蒜香鸡中翅",
+          "unit": "",
+          "spuId": 790720737,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/a60407ee9aecce8d8e78806bbc70db78499567.png",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/a60407ee9aecce8d8e78806bbc70db78499567.png",
+          "saleVolume": 12,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857135909,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "椒盐章鱼须（原味不上粉炸的）",
+          "unit": "",
+          "spuId": 790717520,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/e3c208cd9d454e717ffac3f85638d8ff427966.png",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/e3c208cd9d454e717ffac3f85638d8ff427966.png",
+          "saleVolume": 7,
+          "originPrice": 32.0,
+          "currentPrice": 32.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857135409,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 32.0,
+              "currentPrice": 32.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "脆皮乳鸽",
+          "unit": "",
+          "spuId": 790715884,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/6fe16bebc233890ee617a2aa8624c713137976.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/6fe16bebc233890ee617a2aa8624c713137976.jpg",
+          "saleVolume": 10,
+          "originPrice": 40.0,
+          "currentPrice": 40.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857135763,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 40.0,
+              "currentPrice": 40.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "特色脆皮鸡",
+          "unit": "",
+          "spuId": 790713889,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/ed9481d73338c652af48947fb793f4ee160551.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/ed9481d73338c652af48947fb793f4ee160551.jpg",
+          "saleVolume": 15,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857133699,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": 9948,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "特色蒜香鸭",
+          "unit": "",
+          "spuId": 790720662,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/3b5f03ca39aec656254e18c00703fe9e459335.png",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/3b5f03ca39aec656254e18c00703fe9e459335.png",
+          "saleVolume": 4,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857144034,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "椒盐基围虾",
+          "unit": "",
+          "spuId": 787134440,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/d61f42e5d282c282690139bfea4f0436207942.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/d61f42e5d282c282690139bfea4f0436207942.jpg",
+          "saleVolume": 4,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 853208805,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "红烧茄子",
+          "unit": "",
+          "spuId": 1292137985,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/1a6aae7d260ec8b7b6896f56c26ff1b2264848.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/1a6aae7d260ec8b7b6896f56c26ff1b2264848.jpg",
+          "saleVolume": 4,
+          "originPrice": 20.0,
+          "currentPrice": 20.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1440398271,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 20.0,
+              "currentPrice": 20.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 502482130, "attrValue": "不辣" },
+                { "attrId": 502482131, "attrValue": "微辣" },
+                { "attrId": 502482132, "attrValue": "中辣" },
+                { "attrId": 502482133, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "孜然羊排",
+          "unit": "",
+          "spuId": 790715944,
+          "tag": "63749988",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/922427ce7026dbb7ef40775df33bacba167408.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/922427ce7026dbb7ef40775df33bacba167408.jpg",
+          "saleVolume": 2,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857144061,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "63750057",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "川味小炒",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "酸辣土豆丝",
+          "unit": "",
+          "spuId": 792352692,
+          "tag": "63750057",
+          "activityTag": "discount",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/7cfe194ef9696f395e4df7c153fa047c205617.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/7cfe194ef9696f395e4df7c153fa047c205617.jpg",
+          "saleVolume": 74,
+          "originPrice": 18.0,
+          "currentPrice": 9.9,
+          "spuDesc": "",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 1,
+          "skuList": [
+            {
+              "skuId": 858956297,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": -1,
+              "minPurchaseNum": -1,
+              "restrict": 1,
+              "originPrice": 18.0,
+              "currentPrice": 9.9,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "5.5折 限1份",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927295, "attrValue": "微辣" },
+                { "attrId": 496927296, "attrValue": "中辣" },
+                { "attrId": 496927297, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "5.5折 限1份",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "姜葱炒田鸡",
+          "unit": "",
+          "spuId": 790781079,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/f98cbe9a797036975aa042f96890f2e691191.jpg",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/f98cbe9a797036975aa042f96890f2e691191.jpg",
+          "saleVolume": 10,
+          "originPrice": 32.0,
+          "currentPrice": 32.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857217390,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 32.0,
+              "currentPrice": 32.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927208, "attrValue": "微辣" },
+                { "attrId": 496927209, "attrValue": "中辣" },
+                { "attrId": 496927210, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "尖椒炒鸡蛋",
+          "unit": "",
+          "spuId": 792376912,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/adaa849c68ba68ce05315d46f983831d155763.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/adaa849c68ba68ce05315d46f983831d155763.jpg",
+          "saleVolume": 7,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858981534,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "飘香猪颈肉",
+          "unit": "",
+          "spuId": 790747053,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/040e8b6c2e5b9cdfab82e441231c60d3168586.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/040e8b6c2e5b9cdfab82e441231c60d3168586.jpg",
+          "saleVolume": 4,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857162857,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "姜葱炒生肠",
+          "unit": "",
+          "spuId": 790746574,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/136a571f94abf650710992c3fb89699693433.jpg",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/136a571f94abf650710992c3fb89699693433.jpg",
+          "saleVolume": 8,
+          "originPrice": 32.0,
+          "currentPrice": 32.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857162549,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 32.0,
+              "currentPrice": 32.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927231, "attrValue": "微辣" },
+                { "attrId": 496927232, "attrValue": "中辣" },
+                { "attrId": 496927233, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "豉椒炒鲜鱿",
+          "unit": "",
+          "spuId": 792377221,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/8b0f930269dc4e7da695c0ee7cb0aba7520630.png",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/8b0f930269dc4e7da695c0ee7cb0aba7520630.png",
+          "saleVolume": 9,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858974773,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927235, "attrValue": "微辣" },
+                { "attrId": 496927236, "attrValue": "中辣" },
+                { "attrId": 496927237, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "莱莆煎蛋",
+          "unit": "",
+          "spuId": 792373074,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/580d2db9fe43d8628666b1b43af497ce357668.jpg",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/580d2db9fe43d8628666b1b43af497ce357668.jpg",
+          "saleVolume": 14,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858976265,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "干煸四季豆",
+          "unit": "",
+          "spuId": 790757388,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/51c823a3d3bcf7f226aa5fd38b731f3092070.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/51c823a3d3bcf7f226aa5fd38b731f3092070.jpg",
+          "saleVolume": 11,
+          "originPrice": 20.0,
+          "currentPrice": 20.0,
+          "spuDesc": "口味咸香，色泽嫩绿，口感脆嫩，营养丰富！",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857180903,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 20.0,
+              "currentPrice": 20.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 502482783, "attrValue": "微辣" },
+                { "attrId": 502482784, "attrValue": "中辣" },
+                { "attrId": 502482785, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "凉瓜炒蛋",
+          "unit": "",
+          "spuId": 792382465,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/777567a5ac09f6c4026cdbfea287ac5e126483.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/777567a5ac09f6c4026cdbfea287ac5e126483.jpg",
+          "saleVolume": 11,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858982841,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "干煸有机花菜",
+          "unit": "",
+          "spuId": 792364920,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/4d550e42e6e0edcafc1ddd44b13e4181193222.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/4d550e42e6e0edcafc1ddd44b13e4181193222.jpg",
+          "saleVolume": 13,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858967952,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "虎皮尖椒",
+          "unit": "",
+          "spuId": 792355599,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/bd2115c84c45393d89bd6e5df0b625e3141557.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/bd2115c84c45393d89bd6e5df0b625e3141557.jpg",
+          "saleVolume": 4,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858950986,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "香煎黄花鱼",
+          "unit": "",
+          "spuId": 790781350,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/34d7296e095ae96b3c8dbd0cb70604fd140674.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/34d7296e095ae96b3c8dbd0cb70604fd140674.jpg",
+          "saleVolume": 8,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857217803,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "姜葱炒牛肉",
+          "unit": "",
+          "spuId": 790765074,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/42263d319e53746a2c60355c432cfe5186675.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/42263d319e53746a2c60355c432cfe5186675.jpg",
+          "saleVolume": 8,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857189895,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927257, "attrValue": "微辣" },
+                { "attrId": 496927258, "attrValue": "中辣" },
+                { "attrId": 496927259, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "干煸土豆片",
+          "unit": "",
+          "spuId": 792378898,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/7aa15c0b934390ea9d072251c594e082188576.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/7aa15c0b934390ea9d072251c594e082188576.jpg",
+          "saleVolume": 7,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858984282,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "香煎海鲈鱼",
+          "unit": "",
+          "spuId": 790747029,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/f45205366c183a90159835e7e0b3805e188092.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/f45205366c183a90159835e7e0b3805e188092.jpg",
+          "saleVolume": 4,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857163474,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "酸辣鸡杂",
+          "unit": "",
+          "spuId": 792352185,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/5ea1c25638f00dacd2fb6de64a648126182022.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/5ea1c25638f00dacd2fb6de64a648126182022.jpg",
+          "saleVolume": 2,
+          "originPrice": 28.0,
+          "currentPrice": 28.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858946700,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 28.0,
+              "currentPrice": 28.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927279, "attrValue": "微辣" },
+                { "attrId": 496927280, "attrValue": "中辣" },
+                { "attrId": 496927281, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "老干妈小炒肉",
+          "unit": "",
+          "spuId": 790758573,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/a2ec7aac6387fa457a7effaf0513bc71192033.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/a2ec7aac6387fa457a7effaf0513bc71192033.jpg",
+          "saleVolume": 1,
+          "originPrice": 28.0,
+          "currentPrice": 28.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857184619,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 28.0,
+              "currentPrice": 28.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927302, "attrValue": "微辣" },
+                { "attrId": 496927303, "attrValue": "中辣" },
+                { "attrId": 496927304, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "凉瓜炒牛肉",
+          "unit": "",
+          "spuId": 790775486,
+          "tag": "63750057",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/fc7347400dc02e4f05f61586fbfd589a138607.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/fc7347400dc02e4f05f61586fbfd589a138607.jpg",
+          "saleVolume": 6,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 857207919,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "63750107",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "绿色时蔬",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "炒番薯叶",
+          "unit": "",
+          "spuId": 792393155,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/5caf0b2ff3b70633c0e40d50116c39ed515223.png",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/5caf0b2ff3b70633c0e40d50116c39ed515223.png",
+          "saleVolume": 87,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858999274,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒菜心",
+          "unit": "",
+          "spuId": 792384630,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/11138f362e266bcfd94e1b4b421685e1202870.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/11138f362e266bcfd94e1b4b421685e1202870.jpg",
+          "saleVolume": 25,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858999006,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒空心菜",
+          "unit": "份",
+          "spuId": 792405847,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/1398fd97cd72352f0401e262dbcf2aca169728.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/1398fd97cd72352f0401e262dbcf2aca169728.jpg",
+          "saleVolume": 25,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859019154,
+              "spec": "(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒西兰花",
+          "unit": "",
+          "spuId": 792396365,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/0324c72dac2484d27c323bf1d943be09144089.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/0324c72dac2484d27c323bf1d943be09144089.jpg",
+          "saleVolume": 15,
+          "originPrice": 20.0,
+          "currentPrice": 20.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859009308,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 20.0,
+              "currentPrice": 20.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒芥兰",
+          "unit": "",
+          "spuId": 792399926,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/360d5d6cfbf48012ac7f81ebcc9c924b152051.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/360d5d6cfbf48012ac7f81ebcc9c924b152051.jpg",
+          "saleVolume": 8,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859010963,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒油麦菜",
+          "unit": "",
+          "spuId": 792393579,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/f9ef2e4cadc3b59f3c5654af330fd22c188576.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/f9ef2e4cadc3b59f3c5654af330fd22c188576.jpg",
+          "saleVolume": 10,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859009223,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒生菜",
+          "unit": "",
+          "spuId": 792400220,
+          "tag": "63750107",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/96ed082e2bc4ff4f9bca0171737b0c0f169771.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/96ed082e2bc4ff4f9bca0171737b0c0f169771.jpg",
+          "saleVolume": 6,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 858999836,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "98308789",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "开胃小炒",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "十三香小龙虾（678）",
+          "unit": "一份",
+          "spuId": 1430418915,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfu/812dd6fc857a21d13fcb7c00bc12f6f6470921.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfu/812dd6fc857a21d13fcb7c00bc12f6f6470921.jpg",
+          "saleVolume": 10,
+          "originPrice": 78.0,
+          "currentPrice": 78.0,
+          "spuDesc": "肉质饱满Q弹。点小龙虾赠送饮料哟。虾是678的，比较大",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1631123474,
+              "spec": "(一份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 78.0,
+              "currentPrice": 78.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 578306994, "attrValue": "微辣" },
+                { "attrId": 578306995, "attrValue": "中辣" },
+                { "attrId": 578306996, "attrValue": "麻辣" },
+                { "attrId": 578306997, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            },
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "紫苏炒田螺",
+          "unit": "份",
+          "spuId": 802441443,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/4cc760f972c19388327ec663e373082b208535.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/4cc760f972c19388327ec663e373082b208535.jpg",
+          "saleVolume": 150,
+          "originPrice": 15.0,
+          "currentPrice": 15.0,
+          "spuDesc": "",
+          "praiseNum": 7,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870037266,
+              "spec": "(份)",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "口味",
+              "spuAttrValueList": [
+                { "attrId": 508093152, "attrValue": "微辣" },
+                { "attrId": 508093153, "attrValue": "中辣" },
+                { "attrId": 508093154, "attrValue": "特辣" },
+                { "attrId": 508093155, "attrValue": "不辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "炒丁螺",
+          "unit": "",
+          "spuId": 802444085,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/9ac2dbc4d461806f7978539159fcb64a213768.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/9ac2dbc4d461806f7978539159fcb64a213768.jpg",
+          "saleVolume": 45,
+          "originPrice": 20.0,
+          "currentPrice": 20.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870037878,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 20.0,
+              "currentPrice": 20.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926800, "attrValue": "微辣" },
+                { "attrId": 496926801, "attrValue": "中辣" },
+                { "attrId": 496926802, "attrValue": "特辣" },
+                { "attrId": 496926803, "attrValue": "不辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "脆皮蒜香骨",
+          "unit": "",
+          "spuId": 802407085,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/cba74745140ba6efba7781c0b9ce1d3d183011.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/cba74745140ba6efba7781c0b9ce1d3d183011.jpg",
+          "saleVolume": 22,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "香，脆，下酒必点",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870010032,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "椒盐鸭下巴",
+          "unit": "",
+          "spuId": 802439496,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/b17e2b793c29ea936aab94a9441b764b203982.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/b17e2b793c29ea936aab94a9441b764b203982.jpg",
+          "saleVolume": 22,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870035309,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "豉椒炒花甲",
+          "unit": "",
+          "spuId": 802396797,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/24cddc8b3bfcdcf7cc98ea1599ec4eed122655.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/24cddc8b3bfcdcf7cc98ea1599ec4eed122655.jpg",
+          "saleVolume": 15,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870003451,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926831, "attrValue": "微辣" },
+                { "attrId": 496926832, "attrValue": "中辣" },
+                { "attrId": 496926833, "attrValue": "不辣" },
+                { "attrId": 496926834, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "椒盐鸭舌",
+          "unit": "",
+          "spuId": 802393844,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/b98674bf20edbe595c638f5bf42037b8150606.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/b98674bf20edbe595c638f5bf42037b8150606.jpg",
+          "saleVolume": 11,
+          "originPrice": 38.0,
+          "currentPrice": 38.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870010049,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 38.0,
+              "currentPrice": 38.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        },
+        {
+          "spuName": "花生米",
+          "unit": "",
+          "spuId": 1071756889,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/c3a0c5791f3758927ef8f5380d59f68d134566.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/c3a0c5791f3758927ef8f5380d59f68d134566.jpg",
+          "saleVolume": 7,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "香香脆脆男人下酒莱",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1180928714,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "椒盐多春鱼",
+          "unit": "",
+          "spuId": 802393904,
+          "tag": "98308789",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/3f5456392098f054b178826c5025c611323370.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/3f5456392098f054b178826c5025c611323370.jpg",
+          "saleVolume": 9,
+          "originPrice": 30.0,
+          "currentPrice": 30.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870010124,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 30.0,
+              "currentPrice": 30.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": "",
+          "productLabelPictureList": [
+            {
+              "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+              "width": "60",
+              "height": "30"
+            }
+          ]
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "64901647",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "开胃凉菜",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "凉拌黄瓜",
+          "unit": "",
+          "spuId": 801723066,
+          "tag": "64901647",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/c1b7131a19db99e70cfa9e4bc1307eed153484.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/c1b7131a19db99e70cfa9e4bc1307eed153484.jpg",
+          "saleVolume": 51,
+          "originPrice": 15.0,
+          "currentPrice": 15.0,
+          "spuDesc": "青青脆脆，好吃不贵！",
+          "praiseNum": 3,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869181612,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "凉拌皮蛋",
+          "unit": "",
+          "spuId": 801717793,
+          "tag": "64901647",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/0d83a4f67a57477a77965a887f5fb21f132049.jpg",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/0d83a4f67a57477a77965a887f5fb21f132049.jpg",
+          "saleVolume": 11,
+          "originPrice": 16.0,
+          "currentPrice": 16.0,
+          "spuDesc": "经典凉拌皮蛋，口味咸香适口。",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869181616,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 16.0,
+              "currentPrice": 16.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "酸辣藕带",
+          "unit": "",
+          "spuId": 801730024,
+          "tag": "64901647",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/58093f767ab20ef00c6fb799e89bb030117357.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/58093f767ab20ef00c6fb799e89bb030117357.jpg",
+          "saleVolume": 7,
+          "originPrice": 22.0,
+          "currentPrice": 22.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869188541,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 22.0,
+              "currentPrice": 22.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "凉拌牛肉",
+          "unit": "",
+          "spuId": 801716974,
+          "tag": "64901647",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/2e78316c728ff8a1a16d27737f25c0f6284608.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/2e78316c728ff8a1a16d27737f25c0f6284608.jpg",
+          "saleVolume": 3,
+          "originPrice": 36.0,
+          "currentPrice": 36.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869181628,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 36.0,
+              "currentPrice": 36.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "凉拌猪耳",
+          "unit": "",
+          "spuId": 801730006,
+          "tag": "64901647",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/2cbbad9032c4fe5659e67499286a3cec267743.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/2cbbad9032c4fe5659e67499286a3cec267743.jpg",
+          "saleVolume": 5,
+          "originPrice": 28.0,
+          "currentPrice": 28.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869188524,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 28.0,
+              "currentPrice": 28.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "凉拌肚丝",
+          "unit": "",
+          "spuId": 801716978,
+          "tag": "64901647",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfu/4be337fb1e90113960def97e54e0647e76447.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfu/4be337fb1e90113960def97e54e0647e76447.jpg",
+          "saleVolume": 3,
+          "originPrice": 32.0,
+          "currentPrice": 32.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 869184276,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 32.0,
+              "currentPrice": 32.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "63750159",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "可口小吃",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "高邮咸鸭蛋（单点不送）",
+          "unit": "",
+          "spuId": 1053409550,
+          "tag": "63750159",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/7b7593f17a999a2e5b14419306d0c320111833.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/7b7593f17a999a2e5b14419306d0c320111833.jpg",
+          "saleVolume": 145,
+          "originPrice": 3.28,
+          "currentPrice": 3.28,
+          "spuDesc": "翻砂起油，咸淡适中~",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1160206831,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 3.28,
+              "currentPrice": 3.28,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "韭菜煎饺",
+          "unit": "",
+          "spuId": 792418260,
+          "tag": "63750159",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/b9da37c21c14027b972ac54e2d82bad7151836.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/b9da37c21c14027b972ac54e2d82bad7151836.jpg",
+          "saleVolume": 39,
+          "originPrice": 12.8,
+          "currentPrice": 12.8,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859033332,
+              "spec": "半打",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 12.8,
+              "currentPrice": 12.8,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014751116,
+              "spec": "一份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 25.0,
+              "currentPrice": 25.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炸馒头",
+          "unit": "",
+          "spuId": 792425534,
+          "tag": "63750159",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/305631dcda660dff7178424b5fca3e23137752.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/305631dcda660dff7178424b5fca3e23137752.jpg",
+          "saleVolume": 15,
+          "originPrice": 8.0,
+          "currentPrice": 8.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859042462,
+              "spec": "半打",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 8.0,
+              "currentPrice": 8.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1014732093,
+              "spec": "一打",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "脆皮香芋卷",
+          "unit": "",
+          "spuId": 792410352,
+          "tag": "63750159",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/c7716cb43ea51e48192af0c75dce9e5c179380.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/c7716cb43ea51e48192af0c75dce9e5c179380.jpg",
+          "saleVolume": 6,
+          "originPrice": 18.0,
+          "currentPrice": 18.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1014723347,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "脆皮香蕉",
+          "unit": "",
+          "spuId": 792410119,
+          "tag": "63750159",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/26a333b3c5b55a8535dcda150b4d106f162759.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/26a333b3c5b55a8535dcda150b4d106f162759.jpg",
+          "saleVolume": 7,
+          "originPrice": 9.8,
+          "currentPrice": 9.8,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1014703591,
+              "spec": "小份（5条）",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 9.8,
+              "currentPrice": 9.8,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            },
+            {
+              "skuId": 1626964197,
+              "spec": "一份",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 18.0,
+              "currentPrice": 18.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "98308631",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "主食搭配",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "炒米粉",
+          "unit": "",
+          "spuId": 792404106,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/6af635c071d8fdb4271eb0967e0f16ec164070.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/6af635c071d8fdb4271eb0967e0f16ec164070.jpg",
+          "saleVolume": 151,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "",
+          "praiseNum": 2,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859015168,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926853, "attrValue": "不辣" },
+                { "attrId": 496926854, "attrValue": "微辣" },
+                { "attrId": 496926855, "attrValue": "中辣" },
+                { "attrId": 496926856, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "干炒牛河",
+          "unit": "",
+          "spuId": 792393902,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/57583f28ae20d19f1d8ef3981410da76197586.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/57583f28ae20d19f1d8ef3981410da76197586.jpg",
+          "saleVolume": 47,
+          "originPrice": 20.0,
+          "currentPrice": 20.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859007667,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 20.0,
+              "currentPrice": 20.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926876, "attrValue": "不辣" },
+                { "attrId": 496926877, "attrValue": "微辣" },
+                { "attrId": 496926878, "attrValue": "中辣" },
+                { "attrId": 496926879, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "肉蛋炒米粉",
+          "unit": "",
+          "spuId": 1142830099,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/c39d68cdcff3a51fb3806537d366f7dc170023.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/c39d68cdcff3a51fb3806537d366f7dc170023.jpg",
+          "saleVolume": 36,
+          "originPrice": 15.0,
+          "currentPrice": 15.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1264330046,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927007, "attrValue": "不辣" },
+                { "attrId": 496927008, "attrValue": "微辣" },
+                { "attrId": 496927009, "attrValue": "中辣" },
+                { "attrId": 496927010, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "米饭",
+          "unit": "",
+          "spuId": 792738131,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/dbc257f8b4ad0cd0fe20acacc55af95983686.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/dbc257f8b4ad0cd0fe20acacc55af95983686.jpg",
+          "saleVolume": 64,
+          "originPrice": 3.0,
+          "currentPrice": 3.0,
+          "spuDesc": "妈妈说多吃饭饭才会长高高哦！",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859384197,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 3.0,
+              "currentPrice": 3.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒河粉",
+          "unit": "",
+          "spuId": 792393770,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/5d11ceae14e438ff4f010d06c94ada61148041.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/5d11ceae14e438ff4f010d06c94ada61148041.jpg",
+          "saleVolume": 16,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859009485,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926884, "attrValue": "微辣" },
+                { "attrId": 496926885, "attrValue": "中辣" },
+                { "attrId": 496926886, "attrValue": "特辣" },
+                { "attrId": 496926887, "attrValue": "不辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "炒面",
+          "unit": "",
+          "spuId": 792416642,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/d26d1ff5944d5df28ac9780e7f1dfbab236596.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/d26d1ff5944d5df28ac9780e7f1dfbab236596.jpg",
+          "saleVolume": 17,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859031188,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926939, "attrValue": "微辣" },
+                { "attrId": 496926940, "attrValue": "不辣" },
+                { "attrId": 496926941, "attrValue": "中辣" },
+                { "attrId": 496926942, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "肉蛋炒河粉",
+          "unit": "",
+          "spuId": 802484403,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/73c0d65ec5247e1ec2ad4c3225a15bc21275542.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/73c0d65ec5247e1ec2ad4c3225a15bc21275542.jpg",
+          "saleVolume": 10,
+          "originPrice": 15.0,
+          "currentPrice": 15.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870088388,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496926925, "attrValue": "微辣" },
+                { "attrId": 496926926, "attrValue": "中辣" },
+                { "attrId": 496926927, "attrValue": "特辣" },
+                { "attrId": 496926928, "attrValue": "不辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "蛋炒饭",
+          "unit": "",
+          "spuId": 802468991,
+          "tag": "98308631",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/9db3a70b3469d3a2d9df4773db7657c4138836.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/9db3a70b3469d3a2d9df4773db7657c4138836.jpg",
+          "saleVolume": 8,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "小时候的味道，无法抹去~",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 870088407,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 1.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [
+            {
+              "spuAttrName": "辣度",
+              "spuAttrValueList": [
+                { "attrId": 496927011, "attrValue": "微辣" },
+                { "attrId": 496927012, "attrValue": "中辣" },
+                { "attrId": 496927013, "attrValue": "特辣" }
+              ]
+            }
+          ],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    },
+    {
+      "tag": "63750207",
+      "activityTag": "",
+      "iconUrl": "",
+      "categoryName": "酒水饮料",
+      "categoryType": 0,
+      "spuList": [
+        {
+          "spuName": "老青岛",
+          "unit": "",
+          "spuId": 792449339,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/bcc8cb962dfbe6c5390fcd4cafa0db35151921.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/bcc8cb962dfbe6c5390fcd4cafa0db35151921.jpg",
+          "saleVolume": 23,
+          "originPrice": 7.0,
+          "currentPrice": 7.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859071502,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 7.0,
+              "currentPrice": 7.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "百年糊涂",
+          "unit": "",
+          "spuId": 792457963,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/c4f7257b86c8778a992b1b32b0e09b19353537.jpg",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/c4f7257b86c8778a992b1b32b0e09b19353537.jpg",
+          "saleVolume": 7,
+          "originPrice": 15.0,
+          "currentPrice": 15.0,
+          "spuDesc": "需要33度，52度请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859081886,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "可乐",
+          "unit": "",
+          "spuId": 792451905,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/e3f1b78dca28019d70202d36b3a848a3107714.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/e3f1b78dca28019d70202d36b3a848a3107714.jpg",
+          "saleVolume": 22,
+          "originPrice": 4.0,
+          "currentPrice": 4.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 3,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859076546,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 4.0,
+              "currentPrice": 4.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "罐装百威",
+          "unit": "",
+          "spuId": 792445362,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/4427a4433d869524c1a56251782f5b5b150029.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/4427a4433d869524c1a56251782f5b5b150029.jpg",
+          "saleVolume": 17,
+          "originPrice": 8.0,
+          "currentPrice": 8.0,
+          "spuDesc": "百威啤酒，知心朋友！",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859066658,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 8.0,
+              "currentPrice": 8.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "王老吉",
+          "unit": "",
+          "spuId": 792418448,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/bbf8e377841b696931b0f53ee461a6ad112658.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/bbf8e377841b696931b0f53ee461a6ad112658.jpg",
+          "saleVolume": 9,
+          "originPrice": 5.0,
+          "currentPrice": 5.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859040318,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 5.0,
+              "currentPrice": 5.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "雪碧",
+          "unit": "",
+          "spuId": 792432943,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfu/0efa66fbb5bce9f7ae026841713d1f23248328.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfu/0efa66fbb5bce9f7ae026841713d1f23248328.jpg",
+          "saleVolume": 6,
+          "originPrice": 4.0,
+          "currentPrice": 4.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859052790,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 4.0,
+              "currentPrice": 4.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "椰汁",
+          "unit": "",
+          "spuId": 792427464,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/0e0312009afdb4bed7f437556fee9f00148188.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/0e0312009afdb4bed7f437556fee9f00148188.jpg",
+          "saleVolume": 8,
+          "originPrice": 6.0,
+          "currentPrice": 6.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859040960,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 6.0,
+              "currentPrice": 6.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "大可乐",
+          "unit": "",
+          "spuId": 792455493,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/2b2afc2a7f7da37a32534eddcc1633a3138388.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/2b2afc2a7f7da37a32534eddcc1633a3138388.jpg",
+          "saleVolume": 5,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859077638,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "果粒橙",
+          "unit": "",
+          "spuId": 796901943,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/f4fc8df20827274ffd3200c4e0c5b566146701.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/f4fc8df20827274ffd3200c4e0c5b566146701.jpg",
+          "saleVolume": 3,
+          "originPrice": 12.0,
+          "currentPrice": 12.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 863853617,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 12.0,
+              "currentPrice": 12.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "劲酒",
+          "unit": "",
+          "spuId": 792462654,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/ba1f2359b4e32aa8d4408f9ba8adb791115188.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/ba1f2359b4e32aa8d4408f9ba8adb791115188.jpg",
+          "saleVolume": 1,
+          "originPrice": 15.0,
+          "currentPrice": 15.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859086140,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 15.0,
+              "currentPrice": 15.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "雪花纯生",
+          "unit": "",
+          "spuId": 792445964,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/ffaed69c5da379862aa8fa40e7af8d4c199848.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/ffaed69c5da379862aa8fa40e7af8d4c199848.jpg",
+          "saleVolume": 1,
+          "originPrice": 7.0,
+          "currentPrice": 7.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859070320,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 7.0,
+              "currentPrice": 7.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "百威啤酒",
+          "unit": "",
+          "spuId": 792433691,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfudwm/d2770f59baae22cfa132e81ebe5b6268173025.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfudwm/d2770f59baae22cfa132e81ebe5b6268173025.jpg",
+          "saleVolume": 0,
+          "originPrice": 9.0,
+          "currentPrice": 9.0,
+          "spuDesc": "百威啤酒，知心朋友！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859062103,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 9.0,
+              "currentPrice": 9.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "牛栏山",
+          "unit": "",
+          "spuId": 1070752135,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/xianfu/46ddf4c76a2652efbf6552f79178123e307200.jpg",
+          "bigImageUrl": "http://p0.meituan.net/xianfu/46ddf4c76a2652efbf6552f79178123e307200.jpg",
+          "saleVolume": 3,
+          "originPrice": 20.0,
+          "currentPrice": 20.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 1179704706,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 20.0,
+              "currentPrice": 20.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "老村长",
+          "unit": "",
+          "spuId": 792459763,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/2070b3ba184f1f121b708a934bcc8eca391004.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/2070b3ba184f1f121b708a934bcc8eca391004.jpg",
+          "saleVolume": 0,
+          "originPrice": 45.0,
+          "currentPrice": 45.0,
+          "spuDesc": "",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859083905,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 45.0,
+              "currentPrice": 45.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "江小白",
+          "unit": "",
+          "spuId": 792459116,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/wmproductdwm/18b157eafeeaa62e0ff3c0e86e3caa34334272.jpg",
+          "bigImageUrl": "http://p1.meituan.net/wmproductdwm/18b157eafeeaa62e0ff3c0e86e3caa34334272.jpg",
+          "saleVolume": 1,
+          "originPrice": 22.0,
+          "currentPrice": 22.0,
+          "spuDesc": "",
+          "praiseNum": 1,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859082244,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 22.0,
+              "currentPrice": 22.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "大椰汁",
+          "unit": "",
+          "spuId": 792424809,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p0.meituan.net/wmproductdwm/2fdb3f56d35a71a7b01ca1e150b988ad442653.jpg",
+          "bigImageUrl": "http://p0.meituan.net/wmproductdwm/2fdb3f56d35a71a7b01ca1e150b988ad442653.jpg",
+          "saleVolume": 0,
+          "originPrice": 20.0,
+          "currentPrice": 20.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859055036,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 20.0,
+              "currentPrice": 20.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        },
+        {
+          "spuName": "大雪碧",
+          "unit": "",
+          "spuId": 792424287,
+          "tag": "63750207",
+          "activityTag": "",
+          "littleImageUrl": "http://p1.meituan.net/xianfudwm/c34c8132d379b074fa8538c046caa78e148910.jpg",
+          "bigImageUrl": "http://p1.meituan.net/xianfudwm/c34c8132d379b074fa8538c046caa78e148910.jpg",
+          "saleVolume": 0,
+          "originPrice": 10.0,
+          "currentPrice": 10.0,
+          "spuDesc": "需要冰的请备注哦！",
+          "praiseNum": 0,
+          "sellStatus": 0,
+          "activityType": 0,
+          "skuList": [
+            {
+              "skuId": 859036597,
+              "spec": "",
+              "soldStatus": 0,
+              "realStock": -1,
+              "activityStock": 0,
+              "minPurchaseNum": -1,
+              "restrict": -1,
+              "originPrice": 10.0,
+              "currentPrice": 10.0,
+              "boxFee": 0.0,
+              "skuPromotionInfo": "",
+              "count": 0
+            }
+          ],
+          "spuAttrList": [],
+          "spuPromotionInfo": "",
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1.0 }
+          },
+          "statusDesc": ""
+        }
+      ],
+      "end": true,
+      "nextPageIndex": 0
+    }
+  ],
+  "shoppingCart": {
+    "minFeeForCartTip": 14.0,
+    "promptText": "满25减3;满45减8;满75减12;满110减18"
+  }
+}
